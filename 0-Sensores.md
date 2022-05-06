@@ -1,4 +1,4 @@
-# Sensores 🌡 
+# Sensores
 
 <!--
 TODO: poner modelo de sensores de referencia.

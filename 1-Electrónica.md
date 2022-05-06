@@ -1,4 +1,4 @@
-# 💻 Electrónica
+# Electrónica
 
 
 Primeras versiones del sistema de captura de datos tenían el objetivo de ser utilizados para realizar los experimentos con los sensores y prototipar primeras versiones de la electrónica que se sumergiría en el agua.
