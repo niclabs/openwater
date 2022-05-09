@@ -78,7 +78,7 @@ Se puede observar algunos flujos de trabajo del sitio en los siguientes Gif's. Â
 
 <b>3. Es posible descargar los datos de las estaciones de monitoreo en formato _.csv_.</b>
 
-<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_2descarga.gif" width = "500px">
+<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_2descarga.gif">
 
 <!--
 |<img title="a title" alt="Alt text" src="images\sisexp_web_general.png">|
