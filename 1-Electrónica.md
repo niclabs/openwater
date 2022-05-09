@@ -48,14 +48,14 @@ Ambas opciones tiene un costo cercano a los 200 dolares americanos por placa. Pu
 
 Para utilizar la placa considerar los siguientes materiales:
 
-- Componentes externos
-    - Baterías 18650
-    - Tarjeta SD
-    - Pila Reloj
-- Para programar
-    - Cable de energía
-    - Cable de programación (FTDI)
-- Sensores
+1. Componentes externos
+    a.  Baterías 18650
+    b.  Tarjeta SD
+    c.  Pila Reloj
+2. Para programar
+    a. Cable de energía
+    b. Cable de programación (FTDI)
+3. Sensores
 
 Para programar la placa considerar los sigueintes pasos generales:
 
