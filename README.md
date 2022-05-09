@@ -28,6 +28,9 @@ Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrollada
 
 ## Noticias
 
+##### 05.05.2022 - Bitácora Niclabs
+[![Everything Is AWESOME](images/news_bitacoraniclabs.png)](https://www.youtube.com/watch?v=SJs9-OBhGeA)
+
 
 <br>
 
