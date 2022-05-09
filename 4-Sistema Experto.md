@@ -72,7 +72,7 @@ Se puede observar un pequeño demo de la página en los siguientes gif.
 |-|
 |<img title="a title" alt="Alt text" src="images\visualizacion_sistema_experto_0datos.gif">|
 
-|Comparación y análisis histórico de datos en diferentes estaciones de monitoreo.|
+|Comparación de datos y análisis histórico en diferentes estaciones de monitoreo.|
 |-|
 |<img title="a title" alt="Alt text" src="images\visualizacion_sistema_experto_1comparación.gif">|
 
