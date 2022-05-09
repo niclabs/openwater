@@ -1,4 +1,4 @@
-[![Everything Is AWESOME](images/homepage_video_image.png)](https://www.youtube.com/watch?v=SJs9-OBhGeA)
+[![Everything Is AWESOME](images/homepage_video_image_2.png)](https://www.youtube.com/watch?v=SJs9-OBhGeA)
 
 <h1 style="text-align:center;color:#000610"> Open Water-: Fondef IDeA ID19I10363</h1>
 
