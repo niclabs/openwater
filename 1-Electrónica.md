@@ -64,7 +64,7 @@ La programación se realiza en Arduino IDE y el programa se encuentra en el sigu
 
 8. Seleccionar **el puerto** de conexión correspondiente en la pestaña herramientas.
 9. Seleccionar  **Arduino Uno** en la pestaña herramientas.
-<img title="a title" alt="Alt text" src="images/electronica_pcb_programacion_arduino.png">
+<img title="a title" alt="Alt text" src="images/electronica_pcb_programacion_arduino.png" width="400px">
 10. Cargar el código correspondiente.
 
 
