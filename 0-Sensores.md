@@ -31,7 +31,7 @@ En la siguiente tabla encontramos los sensores en proceso de pruebas para medir 
 | Tº | - [DS18B20](https://altronics.cl/sensor-sonda-temperatura-ds18b20?search=ds18b20)  | \-10°C - 85°C | ±0.5 ºC | 0,0625 °C<br>(12 bit) |
 | Presión  | - [HK1100C](https://altronics.cl/sensor-presion-hk1100c) <br> - [Gravity Pressure](https://www.dfrobot.com/product-1675.html)| 0 - 1,2 MPa | 1.5% | 18 kPa<br>1.8 mt H2O |
 | pH | - [Gravity: Analog pH Sensor/Meter](https://www.dfrobot.com/product-1025.html)  | 0 - 14 pH | ±0,1 pH | 0,014 pH<br>(12 bit) |
-| Conductividad Eléctrica | - [Gravity: Analog TDS Sensor/Meter](https://www.dfrobot.com/product-1662.html) <br> -[Grove - TDS Sensor/Meter](https://www.seeedstudio.com/Grove-TDS-Sensor-p-4400.html)| 0 - 1000ppm<br>0 - 2000 uS/cm<br>0 - 2mS/cm | ± 10% FS<br>200 uS/cm<br>0.2 mS/cm | 1,3 ppm<br>2,6 uS/cm<br>(12 bit) |
+| Conductividad Eléctrica | - [Gravity: Analog TDS Sensor/Meter](https://www.dfrobot.com/product-1662.html) <br> -[Grove - TDS Sensor/Meter](https://www.seeedstudio.com/Grove-TDS-Sensor-p-4400.html)| 0 - 1000ppm<br>0 - 2000 uS/cm | ± 10% FS<br>200 uS/cm<br>0.2 mS/cm | 1,3 ppm<br>2,6 uS/cm<br>(12 bit) |
 | Turbiedad | - [Grove - Turbidity Sensor/Meter](https://www.dfrobot.com/product-1394.html) <br> - [Sensor turbidez](https://altronics.cl/sensor-turbidez-liquidos) | 0 - 3000 NTU | No indica | 4,5 NTU<br>(12 bit) |
 
 Se somete a los sensores a tipos de pruebas que permitieran evaluar dos dimensiones principales de su comportamiento: (1) su presición y (2) su desempeño por periodos prolongados de sumersión en medio acuático, este último escenario permitirá entender el 'sensor drift' o descalibración de los equipos.
