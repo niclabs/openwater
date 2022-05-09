@@ -90,4 +90,3 @@ Se puede observar un pequeño demo de la página en los siguientes gif.
 |-|
 |Visualización histórica de datos|
 -->
-//
