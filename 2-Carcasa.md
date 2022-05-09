@@ -4,6 +4,8 @@
 
 # 📦 Carcasa sumergible
 
+### Prototipado y pruebas
+
 A continuación detalles sobre el diseño y construcción de la carcasa sumergible del sistema en su versión actual. Se han realizado pruebas en ambiente controlado (laboratorio) sumergiendo la carcasa en tanques de agua por diferentes períodos de tiempo y evaluando efectividad en la protección del interior de acuerdo al grado de protección IP alcanzado (norma internacional CEI 60529 Degrees of Protection).
 
 Se fabricó un primer prototipo para realizar pruebas con los sensores de presión (nivel de agua) para sumergirlos en un pozo de unos ~5 metros. Se usaron materiales de plomería genéricos y se rellenó con arroz para absorver la humedad en caso de filtraciones.
@@ -45,7 +47,7 @@ https://github.com/niclabs/water-monitoring/tree/master/5.%20Hito%20Carcasa
 
 <img title="a title" alt="Alt text" src="images/carcasa_planos_placa.png" width="200px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_sup.png" width="200px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_inf.png" width="200px">
 
-## Siguientes pasos
+### Siguientes pasos
 _\*(WIP matías)\*_
 _\*TODO: agregar información sobre la manguera\*_
 _\*TODO: agregar información sobre tipo de ambiente para diseñar la carcasa (requerimiento)\*_
