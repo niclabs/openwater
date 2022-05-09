@@ -68,13 +68,17 @@ Para revisar el sitio web se puede entrar al  [enlace](http://agua.niclabs.cl:30
 
 Se puede observar un pequeño demo de la página en los siguientes gif.
 
-|<img title="a title" alt="Alt text" src="images\visualizacion_sistema_experto_1general.gif">|
+|<img title="a title" alt="Alt text" src="images\visualizacion_sistema_experto_0datos.gif">|
 |-|
-|Flujo de visualización, comparación y análisis histórico de datos en diferentes estaciones de medición.|
+|Flujo de visualización de datos de estación de monitoreo.|
+
+|<img title="a title" alt="Alt text" src="images\visualizacion_sistema_experto_1comparación.gif">|
+|-|
+|Flujo de comparación y análisis histórico de datos en diferentes estaciones de monitoreo.|
 
 |<img title="a title" alt="Alt text" src="images\visualizacion_sistema_experto_2descarga.gif" width = "500px">|
 |-|
-|Es posible descargar los datos de alguna estación.|
+|Es posible descargar los datos de las estaciones de monitoreo en formato _.csv_.|
 
 <!--
 |<img title="a title" alt="Alt text" src="images\sisexp_web_general.png">|
