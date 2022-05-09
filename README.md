@@ -1,4 +1,4 @@
-# <h1 style="text-align:center;color:#000610"> 💧 Open Water: Fondef IDeA ID19I10363</h1>
+<h1 style="text-align:center;color:#000610">💧 Open Water: Fondef IDeA ID19I10363</h1>
 
 <h5 style="text-align:center;color:DodgerBlue;"> Sistema abierto experto para apoyar la gestión de recursos hídricos mediante monitoreo de bajo costo en tiempo real de aguas superficiales y subterráneas </h5>
 
