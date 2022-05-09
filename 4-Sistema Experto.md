@@ -70,13 +70,16 @@ Se puede observar algunos flujos de trabajo del sitio en los siguientes Gif's. �
 
 <b>1. Visualización de datos de estación de monitoreo en el mapa.</b>
 
-<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_0datos.gif">
+|<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_0datos.gif">|
+|-|
 
 <b>2. Comparación de datos y análisis histórico en diferentes estaciones de monitoreo.</b>
 
-<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_1comparación.gif">
+|<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_1comparación.gif">|
+|-|
 
 <b>3. Es posible descargar los datos de las estaciones de monitoreo en formato _.csv_.</b>
 
-<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_2descarga.gif">
+|<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_2descarga.gif">|
+|-|
 
