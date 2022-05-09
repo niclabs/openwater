@@ -16,19 +16,31 @@ La investigación científica es llevada a desarrollo mediante fondos otorgados 
 
 <br>
 
-<h2 style="text-align:center;color:#000610"> Noticias </h2>
+<h2 style="color:#000610"> Estructura wiki </h2>
+
+Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrolladas. Desde las estaciones de monitoreo hasta la interfaz de usuario que muestra la información procesada por el sistema.
+
+1. 🌡 Sensores
+2. 💻 Electrónica
+3. 📦 Carcasa Sumergible
+4. 📡 Comunicación Inalámbrica
+5. 🤖 Sistema Experto
+
+<br>
+
+<h2 style="color:#000610"> Noticias </h2>
 
 
 <br>
 
-<h2 style="text-align:center;color:#000610"> Equipo </h2>
+<h2 style="color:#000610"> Equipo </h2>
 
 
 <br>
 
+<h2 style="color:#000610"> Licencia </h2>
 
-<h2 style="text-align:center;color:#000610"> Licencia </h2>
-
+Licencia Creative Commons (CC)
 
 <br>
 
