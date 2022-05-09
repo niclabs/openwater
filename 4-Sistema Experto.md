@@ -2,7 +2,7 @@
 
 El monitoreo continuo en el tiempo y análisis de caudales superficiales, niveles de agua subterránea y calidad química del recurso hídrico son esenciales para comprender el funcionamiento de un sistema hidrogeológico. Estos, a su vez, forman la base para que un/a experto/a en recursos hídricos, logre entender el funcionamiento natural de dicho sistema y distinguirlo de aquellos comportamientos anómalos. Algunos ejemplos de anomalías en los sistemas hidrogeológicos pueden ser los periodos de sequía, donde la disponibilidad, así como también la calidad del recurso hídrico, pueden verse afectados notablemente. Otro ejemplo también son los eventos de contaminación, donde la composición química del agua se ve afectada. De este modo, una rápida detección ante instancias anómalas es crítica para la planificación y toma de decisiones.
 
-## A. Lógica de detección
+## A. Detección de anomalías
 
 La detección de instancias anómalas a través de variables medidas desde sistemas hidrogeológicos, como los acuíferos, se puede entender como una fusión de diversas herramientas de modelamiento, datos históricos, datos medidos (estado actual acuífero) y conocimientos de expertos con el fin de poder discriminar de manera eficiente la presencia de anomalías. Si este procedimiento de detección de anomalías se hace de manera automática, entonces podríamos definir esta “fusión” mediante el concepto de Sistema Experto, el cual es ampliamente usado en distintas áreas para apoyar a los operadores en la toma de decisiones. En el caso puntual de los acuíferos, el Sistema Experto puede ser de utilidad como apoyo en la toma de decisiones para la operación de estos acuíferos en cuanto a la ejecución de procedimientos preventivos o correctivos necesarios, dada alguna(s) anomalía(s) detectada(s).
 
@@ -49,7 +49,7 @@ La interfaz es la visualización de todo un trasfondo que hay detras. Es la que 
 -->
 
 
-## B. Lógica de visualización
+## B. Interfaz de usuario
 
 El Sistema Experto debe contemplar una capa de visualización, la cual ponga a disposición del usuario la información relacionada al acuífero que está siendo monitoreado. Esto implica la visualización de las variables medidas, así como también las anomalías detectadas por el sistema experto.
 
@@ -80,20 +80,3 @@ Se puede observar algunos flujos de trabajo del sitio en los siguientes Gif's. �
 
 <img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_2descarga.gif">
 
-<!--
-|<img title="a title" alt="Alt text" src="images\sisexp_web_general.png">|
-|-|
-|Sitio web de visualización de datos|
-
-|<img title="a title" alt="Alt text" src="images\sisexp_web_descarga.png" width = "500px">|
-|-|
-|Pestaña de descarga de datos|
-
-|<img title="a title" alt="Alt text" src="images\sisexp_web_datos.png">|
-|-|
-|Visualización de datos recientes, es posible comparar entre estaciones|
-
-|<img title="a title" alt="Alt text" src="images\sisexp_web_historico.png">|
-|-|
-|Visualización histórica de datos|
--->

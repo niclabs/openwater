@@ -14,7 +14,7 @@ TODO: poner tabla de resuemn resultados sensores.
 - poner figura del sistema completo donde sensores es input
 -->
 
-<img title="a title" alt="Alt text" src="images/sensor_agua.png">
+<img title="a title" alt="Alt text" src="images/sensor_agua.png" width="500px">
 
 La calidad de los datos generados que alimenten el sistema afecta directamente su desempeño y la calidad de información presentada a los usuarios del sistema, por esto los sensores a utilizar son de vital importancia. Pero a la vez mejores sensores implican un mayor precio, y el objetivo del proyecto es generar un sistema de bajo costo.
 
