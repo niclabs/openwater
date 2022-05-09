@@ -16,29 +16,30 @@ TODO: poner tabla de resuemn resultados sensores.
 
 <img title="a title" alt="Alt text" src="images/sensor_agua.png" width="500px">
 
+### Experimentos y resultados
+
 La calidad de los datos generados que alimenten el sistema afecta directamente su desempeño y la calidad de información presentada a los usuarios del sistema, por esto los sensores a utilizar son de vital importancia. Pero a la vez mejores sensores implican un mayor precio, y el objetivo del proyecto es generar un sistema de bajo costo.
 
-Dada esta carcterística, la caracterización del comportamiento de los sensores y definición de sus alcances permite generar un óptimo equilibrio entre costo de los equipos y desempeños esperados del sistema para los casos relevantes de uso, en los rangos definidos.
+Entonces la caracterización del comportamiento de los sensores y definición de sus alcances permite generar un óptimo equilibrio entre costo de los equipos y desempeños esperados del sistema para los casos relevantes de uso, en los rangos definidos.
 
 El objetivo es encontrar dispositivos de un costo bajo pero cuya calidad de medición sea la suficiente para operar el sistema. Muchas veces sensores industriales o profesionales pueden estar sobrestimados para la aplicación específica y tener una presición mayor de la necesaria para un análisis de las dinámicas y anomalías de acuíferos.
 
-En la siguiente table encontramos los sensores en proceso de pruebas para medir 5 variables fisicoquímicas relevantes:
+En la siguiente tabla encontramos los sensores en proceso de pruebas para medir 5 variables fisicoquímicas relevantes:
 
 | Variable | Modelo Sensor | Rango | Error | Resolución |
-| -------------------------- | -------------------------------- | ------------------------------------------- | ---------------------------------- | -------------------------------- |
+| - | - | - | - | - |
 | Tº | - [DS18B20](https://altronics.cl/sensor-sonda-temperatura-ds18b20?search=ds18b20)  | \-10°C - 85°C | ±0.5 ºC | 0,0625 °C<br>(12 bit) |
 | Presión  | - [HK1100C](https://altronics.cl/sensor-presion-hk1100c) <br> - [Gravity Pressure](https://www.dfrobot.com/product-1675.html)| 0 - 1,2 MPa | 1.5% | 18 kPa<br>1.8 mt H2O |
 | pH | - [Gravity: Analog pH Sensor/Meter](https://www.dfrobot.com/product-1025.html)  | 0 - 14 pH | ±0,1 pH | 0,014 pH<br>(12 bit) |
-| Conductividad Eléctrica | - [Gravity: Analog TDS Sensor/Meter](https://www.dfrobot.com/product-1662.html) <br> -[]()| 0 - 1000ppm<br>0 - 2000 uS/cm<br>0 - 2mS/cm | ± 10% FS<br>200 uS/cm<br>0.2 mS/cm | 1,3 ppm<br>2,6 uS/cm<br>(12 bit) |
+| Conductividad Eléctrica | - [Gravity: Analog TDS Sensor/Meter](https://www.dfrobot.com/product-1662.html) <br> -[Grove - TDS Sensor/Meter](https://www.seeedstudio.com/Grove-TDS-Sensor-p-4400.html)| 0 - 1000ppm<br>0 - 2000 uS/cm<br>0 - 2mS/cm | ± 10% FS<br>200 uS/cm<br>0.2 mS/cm | 1,3 ppm<br>2,6 uS/cm<br>(12 bit) |
 | Turbiedad | - [Grove - Turbidity Sensor/Meter](https://www.dfrobot.com/product-1394.html) <br> - [Sensor turbidez](https://altronics.cl/sensor-turbidez-liquidos) | 0 - 3000 NTU | No indica | 4,5 NTU<br>(12 bit) |
 
-Se sometió a los sensores a tipos de pruebas que permitieran evaluar dos dimensiones principales de su comportamiento: (1) su presición y (2) su desempeño por periodos prolongados de sumersión en medio acuático ('sensor drift').
+Se somete a los sensores a tipos de pruebas que permitieran evaluar dos dimensiones principales de su comportamiento: (1) su presición y (2) su desempeño por periodos prolongados de sumersión en medio acuático, este último escenario permitirá entender el 'sensor drift' o descalibración de los equipos.
 
-Para esto se utilizó baldes de agua en condicinoes controladas que simulan las condiciones en un acuífero y un sistema de captura de datos para luego procesarlos.
+Para esto se utilizó baldes de agua en condicinoes controladas que simulan las condiciones en un acuífero y un sistema de captura de datos para luego procesarlos. El resumen de los experimentos actuales puede verse en la siguiente tabla a continuación.
 
 <img title="a title" alt="Alt text" src="images/sensor_temp_experimento1.png" width="300px">
-
-El resumen de los experimentos actuales puede verse en la siguiente tabla:
+<img title="a title" alt="Alt text" src="images/sensor_presion_experimento1_2.jpeg" width="300px">
 
 | Variable                   | Estado | Comentario |
 | -------------------------- | ------ | ----------- |
@@ -48,7 +49,15 @@ El resumen de los experimentos actuales puede verse en la siguiente tabla:
 | Conductividad Eléctrica | ⚠️ En evaluación | Buena calidad de medición pero presentó problemas en sumersión continua. Se realizarán nuevos experimentos |
 | Turbiedad   | ❌ Reprobado | Error muy alto (mayor a 1000 TPU) y sensor muy sensible a variables externas |
 
-#### Notas
+<b> * Más detalles sobre los experimentos en el repositorio del proyecto </b>
+
+### Siguientes pasos
+
+...
+
+
+<!--
+#### Algunos detalles
 
 Algunos comentarios sobre los diferentes sensores:
 ##### - Temperatura:
@@ -90,9 +99,9 @@ Algunas observaciones:
 - Para medir el nivel de una columna de agua se usan dos sensores: uno en el fondo del pozo y otro en la superficie para corregir las variaciones en la presión atmosférica que también siente el sensor sumergido. 
 - Experimentos fueron positivos, el error de medición fue menor a 1 cm en diferentes experimentos y luego de 3 meses de medición continua equipo sigue midiendo correctamente, no se observa desviación en su medición.
 
-<img title="a title" alt="Alt text" src="images/sensor_presion_experimento1_1.jpeg" width="300px">
 <img title="a title" alt="Alt text" src="images/sensor_presion_experimento1_2.jpeg" width="300px">
 <img title="a title" alt="Alt text" src="images/sensor_presion_experimento1_0.png" width="300px">
+<img title="a title" alt="Alt text" src="images/sensor_presion_experimento1_1.jpeg" width="300px">
 
 ##### - Turbidez:
 
@@ -100,6 +109,7 @@ Algunas observaciones:
 
 - Sensores son muy sensibles a la luz, entonces mediciones varían ampliamente dependiendo de la luz ambiente y la posición en que se coloquen, cualquier movivmiento o cambio de alguna de estas condiciones afectará la medición.
 - Errores del rango de ~1000 NTU. No confiables, quizás solo apra alertas grandes pero mejor seguir buscando.
+-->
 
 <!--
 ## Aprendizajes
