@@ -84,6 +84,7 @@ Conexiones:
 ## Oportunidades de mejora
 
 #### To Do's
+_\*(Sección WIP matías)\*_
 
 1. Disminuir costo de fabricación.
 2. Mejorar autonomía del sistema.
