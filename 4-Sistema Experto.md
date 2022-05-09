@@ -70,15 +70,15 @@ Se puede observar un pequeño demo de la página en los siguientes gif.
 
 |Visualización de datos de estación de monitoreo en el mapa.|
 |-|
-|<img title="a title" alt="Alt text" src="images\visualizacion_sistema_experto_0datos.gif">|
+|<img title="Gif sistema experto" alt="Alt text" src="images\visualizacion_sistema_experto_0datos.gif">|
 
 |Comparación de datos y análisis histórico en diferentes estaciones de monitoreo.|
 |-|
-|<img title="a title" alt="Alt text" src="images\visualizacion_sistema_experto_1comparación.gif">|
+|<img title="Gif sistema experto" alt="Alt text" src="images\visualizacion_sistema_experto_1comparación.gif">|
 
 |Es posible descargar los datos de las estaciones de monitoreo en formato _.csv_.|
 |-|
-|<img title="a title" alt="Alt text" src="images\visualizacion_sistema_experto_2descarga.gif" width = "500px">|
+|<img title="Gif sistema experto" alt="Alt text" src="images\visualizacion_sistema_experto_2descarga.gif" width = "500px">|
 
 <!--
 |<img title="a title" alt="Alt text" src="images\sisexp_web_general.png">|
