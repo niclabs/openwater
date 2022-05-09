@@ -1,4 +1,4 @@
-# Sistema Experto
+# 🤖 Sistema Experto
 
 El monitoreo continuo en el tiempo y análisis de caudales superficiales, niveles de agua subterránea y calidad química del recurso hídrico son esenciales para comprender el funcionamiento de un sistema hidrogeológico. Estos, a su vez, forman la base para que un/a experto/a en recursos hídricos, logre entender el funcionamiento natural de dicho sistema y distinguirlo de aquellos comportamientos anómalos. Algunos ejemplos de anomalías en los sistemas hidrogeológicos pueden ser los periodos de sequía, donde la disponibilidad, así como también la calidad del recurso hídrico, pueden verse afectados notablemente. Otro ejemplo también son los eventos de contaminación, donde la composición química del agua se ve afectada. De este modo, una rápida detección ante instancias anómalas es crítica para la planificación y toma de decisiones.
 
