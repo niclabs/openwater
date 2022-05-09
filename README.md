@@ -16,7 +16,7 @@ La investigación científica es llevada a desarrollo mediante fondos otorgados 
 
 <br>
 
-<h2 style="color:#000610"> Estructura wiki </h2>
+## Estructura wiki
 
 Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrolladas. Desde las estaciones de monitoreo hasta la interfaz de usuario que muestra la información procesada por el sistema.
 
@@ -28,17 +28,17 @@ Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrollada
 
 <br>
 
-<h2 style="color:#000610"> Noticias </h2>
+## Noticias
 
 
 <br>
 
-<h2 style="color:#000610"> Equipo </h2>
+## Equipo
 
 
 <br>
 
-<h2 style="color:#000610"> Licencia </h2>
+## Licencia
 
 Licencia Creative Commons (CC)
 

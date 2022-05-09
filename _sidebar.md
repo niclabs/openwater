@@ -1,4 +1,8 @@
 - [Inicio](/)
+    - [Estructura Wiki](?id=estructura-wiki)
+    - [Noticias]()
+    - [Equipo]()
+    - [Licencia]()
 - [1. Sensores](0-Sensores.md)
 - [2. Electrónica](1-Electrónica.md)
 - [3. Carcasa](2-Carcasa.md)
