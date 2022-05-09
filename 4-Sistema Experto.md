@@ -64,7 +64,7 @@ Para revisar el sitio web se puede entrar al  [enlace](http://agua.niclabs.cl:30
 | Sitio web | [http://agua.niclabs.cl:3001/](http://agua.niclabs.cl:3001/#/) |
 |-|-|
 | user | pruebas |
-| apss | fondefagua |
+| psas | fondefagua |
 
 Se puede observar un pequeño demo de la página en los siguientes gif.
 
