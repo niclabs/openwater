@@ -66,7 +66,7 @@ Para revisar el sitio web se puede entrar al  [enlace](http://agua.niclabs.cl:30
 | user | pruebas |
 | psas | fondefagua |
 
-Se puede observar un pequeño demo de la página en los siguientes gif.
+Se puede observar algunos flujos de trabajo del sitio en los siguientes Gif's. ¡Te invitamos a visitarla!.
 
 <b>1. Visualización de datos de estación de monitoreo en el mapa.</b>
 
