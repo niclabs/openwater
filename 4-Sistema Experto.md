@@ -63,8 +63,17 @@ Para revisar el sitio web se puede entrar al  [enlace](http://agua.niclabs.cl:30
 |-|-|
 | pruebas | fondefagua |
 
-Se pueden observar algunos mock-ups.
+Se puede observar un pequeño demo de la página en los siguientes gif.
 
+|<img title="a title" alt="Alt text" src="images\visualizacion_sistema_experto_1general.gif">|
+|-|
+|Flujo de visualización, comparación y análisis histórico de datos en diferentes estaciones de medición.|
+
+|<img title="a title" alt="Alt text" src="images\visualizacion_sistema_experto_2datos.gif" width = "500px">|
+|-|
+|Es posible descargar los datos de alguna estación.|
+
+<!--
 |<img title="a title" alt="Alt text" src="images\sisexp_web_general.png">|
 |-|
 |Sitio web de visualización de datos|
@@ -80,3 +89,5 @@ Se pueden observar algunos mock-ups.
 |<img title="a title" alt="Alt text" src="images\sisexp_web_historico.png">|
 |-|
 |Visualización histórica de datos|
+-->
+//
