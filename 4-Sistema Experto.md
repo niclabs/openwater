@@ -59,9 +59,12 @@ El sitio web es la culminación, y toma el trabajo realizado por todos los siste
 
 Para revisar el sitio web se puede entrar al  [enlace](http://agua.niclabs.cl:3001/) con las siguientes credenciales:
 
-| Usuario | Pass |
+
+
+| Sitio web | [http://agua.niclabs.cl:3001/](http://agua.niclabs.cl:3001/#/) |
 |-|-|
-| pruebas | fondefagua |
+| user | pruebas |
+| apss | fondefagua |
 
 Se puede observar un pequeño demo de la página en los siguientes gif.
 
@@ -69,7 +72,7 @@ Se puede observar un pequeño demo de la página en los siguientes gif.
 |-|
 |Flujo de visualización, comparación y análisis histórico de datos en diferentes estaciones de medición.|
 
-|<img title="a title" alt="Alt text" src="images\visualizacion_sistema_experto_2datos.gif" width = "500px">|
+|<img title="a title" alt="Alt text" src="images\visualizacion_sistema_experto_2descarga.gif" width = "500px">|
 |-|
 |Es posible descargar los datos de alguna estación.|
 
