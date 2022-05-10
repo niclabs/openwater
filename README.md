@@ -37,15 +37,22 @@ Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrollada
 
 ## Licencia
 
-<img title="a title" alt="Alt text" src="images/inicio_licencia.png" width="500px">
+<img title="a title" alt="Alt text" src="images/inicio_licencia.png" width="200px">
 
 <br>
+<br>
+
+**CC BY-NC-SA 4.0**
+
+**Attribution-NonCommercial_ShareAlike 4.0 International**
 
 This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms.
 
 BY: Credit must be given to you, the creator.
 NC: Only noncommercial use of your work is permitted. Noncommercial means not primarily intended for or directed towards commercial advantage or monetary compensation.
 SA: Adaptations must be shared under the same terms. 
+
+[Revisa el detalle de la licencia.](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
 <br>
 
