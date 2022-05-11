@@ -32,6 +32,20 @@ Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrollada
 
 ## Equipo
 
+<img title="a title" alt="Alt text" src="images/inicio_equipo_sandra.jpg" width="50px">
+<img title="a title" alt="Alt text" src="images/inicio_equipo_linda.jpg" width="50px">
+<img title="a title" alt="Alt text" src="images/inicio_equipo_doris.jpg" width="50px">
+<img title="a title" alt="Alt text" src="images/inicio_equipo_juan.jpg" width="50px">
+<img title="a title" alt="Alt text" src="images/inicio_equipo_matiastaucare.jpg" width="50px">
+<img title="a title" alt="Alt text" src="images/inicio_equipo_francisco.jpg" width="50px">
+<img title="a title" alt="Alt text" src="images/inicio_equipo_rodrigo.jpg" width="50px">
+<img title="a title" alt="Alt text" src="images/inicio_equipo_pablo.jpg" width="50px">
+<img title="a title" alt="Alt text" src="images/inicio_equipo_sebastian.jpg" width="50px">
+<img title="a title" alt="Alt text" src="images/inicio_equipo_gabriel.jpg" width="50px">
+<img title="a title" alt="Alt text" src="images/inicio_equipo_gabriela.jpg" width="50px">
+<img title="a title" alt="Alt text" src="images/inicio_equipo_maximiliano.jpg" width="50px">
+<img title="a title" alt="Alt text" src="images/inicio_equipo_matiasmacaya.jpg" width="50px">
+
 
 <br>
 
