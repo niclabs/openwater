@@ -26,6 +26,8 @@ El objetivo es encontrar dispositivos de un costo bajo pero cuya calidad de medi
 
 En la siguiente tabla encontramos los sensores en proceso de pruebas para medir 5 variables fisicoquímicas relevantes:
 
+<p align="center">
+
 | Variable | Modelo Sensor | Rango | Error |
 | - | - | - | - |
 | Tº | - [DS18B20](https://altronics.cl/sensor-sonda-temperatura-ds18b20?search=ds18b20)  | \-10°C - 85°C | ±0.5 ºC |
@@ -33,6 +35,7 @@ En la siguiente tabla encontramos los sensores en proceso de pruebas para medir 
 | pH | - [Gravity: Analog pH Sensor/Meter](https://www.dfrobot.com/product-1025.html)  | 0 - 14 pH | ±0,1 pH |
 | Conductividad Eléctrica | - [Gravity: Analog TDS Sensor/Meter](https://www.dfrobot.com/product-1662.html) <br> -[Grove - TDS Sensor/Meter](https://www.seeedstudio.com/Grove-TDS-Sensor-p-4400.html)| 0 - 1000ppm<br>0 - 2000 uS/cm | ± 10% FS<br>200 uS/cm<br>0.2 mS/cm |
 | Turbiedad | - [Grove - Turbidity Sensor/Meter](https://www.dfrobot.com/product-1394.html) <br> - [Sensor turbidez](https://altronics.cl/sensor-turbidez-liquidos) | 0 - 3000 NTU | No indica |
+</p>
 
 Se somete a los sensores a tipos de pruebas que permitieran evaluar dos dimensiones principales de su comportamiento: (1) su presición y (2) su desempeño por periodos prolongados de sumersión en medio acuático, este último escenario permitirá entender el 'sensor drift' o descalibración de los equipos.
 
@@ -41,6 +44,8 @@ Para esto se utilizó baldes de agua en condicinoes controladas que simulan las 
 <p align="center"><img title="a title" alt="Alt text" src="images/sensor_temp_experimento1.png" height="270px">
 <img title="a title" alt="Alt text" src="images/sensor_presion_experimento1_2.jpeg" height="270px"></p>
 
+<p align="center">
+
 | Variable                   | Estado | Comentario |
 | -------------------------- | ------ | ----------- |
 | Temperatura | ✅ Aprobado para proseguir experimentos | Operación dentro de lo esperado. Error menor a 0.5 ºC y buen desempeño en sumersión continua |
@@ -48,6 +53,7 @@ Para esto se utilizó baldes de agua en condicinoes controladas que simulan las 
 | pH          | ✅ Aprobado para proseguir experimentos | Operación dentro de lo esperado. Error menor a 1 y buen desempeño en sumersión continua |
 | Conductividad Eléctrica | ⚠️ En evaluación | Buena calidad de medición pero presentó problemas en sumersión continua. Se realizarán nuevos experimentos |
 | Turbiedad   | ❌ Reprobado | Error muy alto (mayor a 1000 TPU) y sensor muy sensible a variables externas |
+</p>
 
 <b> * Más detalles sobre los experimentos en el repositorio del proyecto </b>
 
