@@ -8,7 +8,7 @@ En enero del 2020 el consorcio formado por NIC Labs, el Departamento de Ingenier
 
 La investigación científica es llevada a desarrollo mediante fondos otorgados por FONDEF ID19I10363.
 
-[![Everything Is AWESOME](images/homepage_video_image_2.png)](https://www.youtube.com/watch?v=SJs9-OBhGeA)
+[<img title="a title" alt="Alt text" src="images/homepage_video_image_2.png" width="500px">!](https://www.youtube.com/watch?v=SJs9-OBhGeA)
 
 </p>
 
@@ -22,13 +22,12 @@ Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrollada
 4. 📡 Comunicación Inalámbrica
 5. 🤖 Sistema Experto
 
+<!--
 ## Noticias
 
 ##### 05.05.2022 - Bitácora Niclabs
 [![Everything Is AWESOME](images/news_bitacoraniclabs.png)](https://www.youtube.com/watch?v=SJs9-OBhGeA)
-
-
-<br>
+-->
 
 ## Equipo
 
