@@ -1,4 +1,4 @@
-- [Inicio](https://niclabs.cl/openwater-es/#/)
+- [Inicio](/)
 - [1. Sensores](0-Sensores.md)
 - [2. Electrónica](1-Electrónica.md)
 - [3. Carcasa](2-Carcasa.md)
