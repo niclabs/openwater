@@ -31,26 +31,25 @@ Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrollada
 
 ## Equipo
 
-<img title="a title" alt="Alt text" src="images/inicio_equipo_sandra.jpg" width="50px">
-<img title="a title" alt="Alt text" src="images/inicio_equipo_linda.jpg" width="50px">
-<img title="a title" alt="Alt text" src="images/inicio_equipo_doris.jpg" width="50px">
-<img title="a title" alt="Alt text" src="images/inicio_equipo_juan.jpg" width="50px">
-<img title="a title" alt="Alt text" src="images/inicio_equipo_matiastaucare.jpg" width="50px">
-<img title="a title" alt="Alt text" src="images/inicio_equipo_francisco.jpg" width="50px">
-<img title="a title" alt="Alt text" src="images/inicio_equipo_rodrigo.jpg" width="50px">
-<img title="a title" alt="Alt text" src="images/inicio_equipo_pablo.jpg" width="50px">
-<img title="a title" alt="Alt text" src="images/inicio_equipo_sebastian.jpg" width="50px">
-<img title="a title" alt="Alt text" src="images/inicio_equipo_gabriel.jpg" width="50px">
-<img title="a title" alt="Alt text" src="images/inicio_equipo_gabriela.jpg" width="50px">
-<img title="a title" alt="Alt text" src="images/inicio_equipo_maximiliano.jpg" width="50px">
-<img title="a title" alt="Alt text" src="images/inicio_equipo_matiasmacaya.jpg" width="50px">
+<img title="Sandra Cespedes" alt="Sandra Cespedes" src="images/inicio_equipo_sandra.jpg" width="60px">
+<img title="Linda Daniele" alt="Linda Daniele" src="images/inicio_equipo_linda.jpg" width="60px">
+<img title="Doris Saez" alt="Doris Saez" src="images/inicio_equipo_doris.jpg" width="60px">
+<img title="Juan Salamanca" alt="Juan Salamanca" src="images/inicio_equipo_juan.jpg" width="60px">
+<img title="Matías Taucare" alt="Matías Taucare" src="images/inicio_equipo_matiastaucare.jpg" width="60px">
+<img title="Francisco Jaramillo" alt="Francisco Jaramillo" src="images/inicio_equipo_francisco.jpg" width="60px">
+<img title="Rodrigo Muñoz" alt="Rodrigo Muñoz" src="images/inicio_equipo_rodrigo.jpg" width="60px">
+<img title="Pablo Martin" alt="Pablo Martin" src="images/inicio_equipo_pablo.jpg" width="60px">
+<img title="Sebastian Cifuentes" alt="Sebastian Cifuentes" src="images/inicio_equipo_sebastian.jpg" width="60px">
+<img title="Gabriel Flores" alt="Gabriel Flores" src="images/inicio_equipo_gabriel.jpg" width="60px">
+<img title="Gabriela Mendoza" alt="Gabriela Mendoza" src="images/inicio_equipo_gabriela.jpg" width="60px">
+<img title="Maximiliano Jones" alt="Maximiliano Jones" src="images/inicio_equipo_maximiliano.jpg" width="60px">
+<img title="Amilcar Aravena" alt="Amilcar Aravena" src="images/inicio_equipo_amilcar.jpg" width="60px">
+<img title="Matías Macaya" alt="Matías Macaya" src="images/inicio_equipo_matiasmacaya.jpg" width="60px">
 
-
-<br>
 
 ## Licencia
 
-<img title="a title" alt="Alt text" src="images/inicio_licencia.png" width="150px">
+<img title="Licencia CC BY-NC-SA 4.0" alt="Licencia CC BY-NC-SA 4.0" src="images/inicio_licencia.png" width="150px">
 
 **CC BY-NC-SA 4.0**
 
