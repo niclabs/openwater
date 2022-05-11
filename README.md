@@ -31,21 +31,21 @@ Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrollada
 
 ## Equipo
 
-<img title="Sandra Cespedes" alt="Sandra Cespedes" src="images/inicio_equipo_sandra.jpg" width="60px">
-<img title="Linda Daniele" alt="Linda Daniele" src="images/inicio_equipo_linda.jpg" width="60px">
-<img title="Doris Saez" alt="Doris Saez" src="images/inicio_equipo_doris.jpg" width="60px">
-<img title="Juan Salamanca" alt="Juan Salamanca" src="images/inicio_equipo_juan.jpg" width="60px">
-<img title="Matías Taucare" alt="Matías Taucare" src="images/inicio_equipo_matiastaucare.jpg" width="60px">
-<img title="Francisco Jaramillo" alt="Francisco Jaramillo" src="images/inicio_equipo_francisco.jpg" width="60px">
-<img title="Rodrigo Muñoz" alt="Rodrigo Muñoz" src="images/inicio_equipo_rodrigo.jpg" width="60px">
-<img title="Pablo Martin" alt="Pablo Martin" src="images/inicio_equipo_pablo.jpg" width="60px">
-<img title="Sebastian Cifuentes" alt="Sebastian Cifuentes" src="images/inicio_equipo_sebastian.jpg" width="60px">
-<img title="Gabriel Flores" alt="Gabriel Flores" src="images/inicio_equipo_gabriel.jpg" width="60px">
-<img title="Gabriela Mendoza" alt="Gabriela Mendoza" src="images/inicio_equipo_gabriela.jpg" width="60px">
-<img title="Maximiliano Jones" alt="Maximiliano Jones" src="images/inicio_equipo_maximiliano.jpg" width="60px">
-<img title="María Jesus" alt="María Jesus" src="images/inicio_equipo_mariajesus.jpg" width="60px">
-<img title="Amilcar Aravena" alt="Amilcar Aravena" src="images/inicio_equipo_amilcar.jpg" width="60px">
-<img title="Matías Macaya" alt="Matías Macaya" src="images/inicio_equipo_matiasmacaya.jpg" width="60px">
+[<img title="Sandra Cespedes" alt="Sandra Cespedes" src="images/inicio_equipo_sandra.jpg" width="60px">](https://www.linkedin.com/in/scespedes/)
+[<img title="Linda Daniele" alt="Linda Daniele" src="images/inicio_equipo_linda.jpg" width="60px">](https://www.linkedin.com/in/linda-daniele-9a35bb39/)
+[<img title="Doris Saez" alt="Doris Saez" src="images/inicio_equipo_doris.jpg" width="60px">](https://www.linkedin.com/in/doris-saez-ba2ab5146/)
+[<img title="Juan Salamanca" alt="Juan Salamanca" src="images/inicio_equipo_juan.jpg" width="60px">](https://www.linkedin.com/in/juan-salamanca-8b784411/)
+[<img title="Matías Taucare" alt="Matías Taucare" src="images/inicio_equipo_matiastaucare.jpg" width="60px">](https://www.linkedin.com/in/matias-taucare-toro/)
+[<img title="Francisco Jaramillo" alt="Francisco Jaramillo" src="images/inicio_equipo_francisco.jpg" width="60px">](https://www.linkedin.com/in/francisco-jaramillo-montoya-0a6b8750/)
+[<img title="Rodrigo Muñoz" alt="Rodrigo Muñoz" src="images/inicio_equipo_rodrigo.jpg" width="60px">](https://www.linkedin.com/in/rodrigomunozlara/)
+[<img title="Pablo Martin" alt="Pablo Martin" src="images/inicio_equipo_pablo.jpg" width="60px">](https://www.linkedin.com/in/pmartinchile/)
+[<img title="Sebastian Cifuentes" alt="Sebastian Cifuentes" src="images/inicio_equipo_sebastian.jpg" width="60px">](https://www.linkedin.com/in/sebcif)
+[<img title="Gabriel Flores" alt="Gabriel Flores" src="images/inicio_equipo_gabriel.jpg" width="60px">](https://github.com/gaboflowers)
+[<img title="Gabriela Mendoza" alt="Gabriela Mendoza" src="images/inicio_equipo_gabriela.jpg" width="60px">](https://www.linkedin.com/in/gabriela-mendoza-muñoz-700945151/)
+[<img title="Maximiliano Jones" alt="Maximiliano Jones" src="images/inicio_equipo_maximiliano.jpg" width="60px">](https://www.linkedin.com/in/maximiliano-jones-herrera-b4013b97/)
+[<img title="María Jesus" alt="María Jesus" src="images/inicio_equipo_mariajesus.jpg" width="60px">]()
+[<img title="Amilcar Aravena" alt="Amilcar Aravena" src="images/inicio_equipo_amilcar.jpg" width="60px">](https://www.linkedin.com/in/amilcar-aravena/)
+[<img title="Matías Macaya" alt="Matías Macaya" src="images/inicio_equipo_matiasmacaya.jpg" width="60px">](https://www.linkedin.com/in/matiasmacayaleiva/)
 
 
 ## Licencia
