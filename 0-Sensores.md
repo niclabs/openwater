@@ -38,8 +38,8 @@ Se somete a los sensores a tipos de pruebas que permitieran evaluar dos dimensio
 
 Para esto se utilizó baldes de agua en condicinoes controladas que simulan las condiciones en un acuífero y un sistema de captura de datos para luego procesarlos. El resumen de los experimentos actuales puede verse en la siguiente tabla a continuación.
 
-<img title="a title" alt="Alt text" src="images/sensor_temp_experimento1.png" width="300px">
-<img title="a title" alt="Alt text" src="images/sensor_presion_experimento1_2.jpeg" width="300px">
+<img title="a title" alt="Alt text" src="images/sensor_temp_experimento1.png" height="270px">
+<img title="a title" alt="Alt text" src="images/sensor_presion_experimento1_2.jpeg" height="270px">
 
 | Variable                   | Estado | Comentario |
 | -------------------------- | ------ | ----------- |

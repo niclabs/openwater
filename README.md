@@ -8,7 +8,7 @@ En enero del 2020 el consorcio formado por NIC Labs, el Departamento de Ingenier
 
 La investigación científica es llevada a desarrollo mediante fondos otorgados por FONDEF ID19I10363.
 
-[<img title="a title" alt="Alt text" src="images/homepage_video_image_2.png" width="500px">!](https://www.youtube.com/watch?v=SJs9-OBhGeA)
+[<img title="a title" alt="Alt text" src="images/homepage_video_image_2.png" width="500px">](https://www.youtube.com/watch?v=SJs9-OBhGeA)
 
 </p>
 
