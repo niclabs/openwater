@@ -47,6 +47,7 @@ Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrollada
 [<img title="Amilcar Aravena" alt="Amilcar Aravena" src="images/inicio_equipo_amilcar.jpg" width="60px">](https://www.linkedin.com/in/amilcar-aravena/)
 [<img title="Matías Macaya" alt="Matías Macaya" src="images/inicio_equipo_matiasmacaya.jpg" width="60px">](https://www.linkedin.com/in/matiasmacayaleiva/)
 
+<br>
 
 ## Licencia
 
