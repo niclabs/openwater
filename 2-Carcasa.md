@@ -51,7 +51,7 @@ https://github.com/niclabs/water-monitoring/tree/master/5.%20Hito%20Carcasa
 _\*(WIP matías)\*_
 _\*TODO: agregar información sobre la manguera\*_
 _\*TODO: agregar información sobre tipo de ambiente para diseñar la carcasa (requerimiento)\*_
-
+<!--
 Se puede ordenar el trabajo futuro en dos categorías dependiendo de su objetivo:
 
 ##### To Do's:
@@ -63,7 +63,7 @@ Se puede ordenar el trabajo futuro en dos categorías dependiendo de su objetivo
 
 1. Revisar mecanismo de sellado y filtraciones.
 
-
+-->
 
 <!--
 
