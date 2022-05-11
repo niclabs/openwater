@@ -8,17 +8,17 @@ La detección de instancias anómalas a través de variables medidas desde siste
 
 <!-- El presente proyecto de investigación y desarrollo comprende dentro de su propuesta la elaboración de un Sistema Experto, el cual, mediante la información recopilada a partir de datos históricos, conocimiento experto humano, y mediciones actuales (desde nodos sensores) de temperatura, conductividad eléctrica y pH, turbiedad y nivel piezométrico sea capaz de detectar anomalías en acuíferos monitoreados. Un esquema que ejemplifica el concepto de Sistema Experto se muestra en la Figura 1. -->
 
-<img title="a title" alt="Alt text" src="images\sistema_experto_diagrama_diseno.png">
+<p align="center"><img title="a title" alt="Alt text" src="images\sistema_experto_diagrama_diseno.png"></p>
 
 El diseño considerado para el Sistema Experto consta del funcionamiento de dos herramientas (o modelos) de machine learning entrenadas para trabajar en paralelo, y cuyas salidas serán fusionadas a través de alguna estrategia determinada. Las herramientas de machine learning escogidas para esta propuesta son LightGBM y TabNet, las cuales, una vez que son entrenados, irán detectando anomalías en los acuíferos monitoreados, a medida que reciban mediciones en línea. Un ejemplo del flujo de información en el funcionamiento de esta metodología se muestra en la Figura 7.
 
-<img title="a title" alt="Alt text" src="images\sistema_experto_diagrama_algoritmos.png">
+<p align="center"><img title="a title" alt="Alt text" src="images\sistema_experto_diagrama_algoritmos.png"></p>
 
 Es importante mencionar que el Sistema Experto no se limita solamente a utilizar dos modelos (LightGBM y TabNet), su diseño hace que sea flexible para que puedan incorporarse otros tipos de modelos para trabajar en paralelo juntos a los ya propuestos.
 
 En términos gráficos, la base de datos de validación, junto con las anomalías detectadas mediante la fusión de los modelos LightGBM y TabNet a través de la función lógica OR son visualizados en la Figura 15.
 
-<img title="a title" alt="Alt text" src="images\sistema_experto_ejemplo.png">
+<p align="center"><img title="a title" alt="Alt text" src="images\sistema_experto_ejemplo.png"></p>
 
 De resultados obtenidos se desprende que ambos modelos por separado tienen un desempeño por sobre un 75% en prácticamente todas las métricas (solo el Recall para TabNet está por bajo un 75%, llegando a ser un 73%). Sin embargo, al fusionar ambos modelos, todas las métricas propuestas sobrepasan el 75% de desempeño requerido para alcanzar el hito, y considerando solo el Accuracy, éste logró alcanzar aproximadamente un 95%.
 
@@ -55,7 +55,7 @@ El Sistema Experto debe contemplar una capa de visualización, la cual ponga a d
 
 El sitio web es la culminación, y toma el trabajo realizado por todos los sistemas previos a él para presentar al usuario con la información y recomendaciones relevantes. Esto queda representado en la siguiente figura.
 
-<img title="a title" alt="Alt text" src="images\sistema_experto_diagrama_visualización.png">
+<p align="center"><img title="a title" alt="Alt text" src="images\sistema_experto_diagrama_visualización.png"></p>
 
 Para revisar el sitio web se puede entrar al  [enlace](http://agua.niclabs.cl:3001/) con las siguientes credenciales:
 
@@ -70,16 +70,16 @@ Se puede observar algunos flujos de trabajo del sitio en los siguientes Gif's. �
 
 <b>1. Visualización de datos de estación de monitoreo en el mapa.</b>
 
-|<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_0datos.gif">|
-|-|
+<p align="center">|<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_0datos.gif">|
+|-|</p>
 
 <b>2. Comparación de datos y análisis histórico en diferentes estaciones de monitoreo.</b>
 
-|<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_1comparación.gif">|
-|-|
+<p align="center">|<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_1comparación.gif">|
+|-|</p>
 
 <b>3. Es posible descargar los datos de las estaciones de monitoreo en formato _.csv_.</b>
 
-|<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_2descarga.gif">|
-|-|
+<p align="center">|<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_2descarga.gif">|
+|-|</p>
 

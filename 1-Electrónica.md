@@ -6,11 +6,11 @@ Primeras versiones del sistema de captura de datos tenían el objetivo de ser ut
 
 Las funcionalidad de ambos es casi la misma: leer sensores ambientales, almacenar datos temporales. Para el caso del prototipo a sumergir en los acuíferos la información además debe ser comunicada al exterior y debe poder funcionar de manera autónoma por semanas a las vez.
 
-<img title="a title" alt="Alt text" src="images/electronica_conexiones_prototipo.png" width="400px">
+<p align="center"><img title="a title" alt="Alt text" src="images/electronica_conexiones_prototipo.png" width="400px"></p>
 
 Como resultados iniciales se tiene un nodo sensor capaz de obtener medidas, guardar estos datos en una microSD y además enviar estos datos de manera serial siendo un prototipo inicial lo suficientemente útil para la realización de pruebas en profundidad y analizar las limitaciones de los sensores bajo condiciones en profundidad controlada.
 
-<img title="a title" alt="Alt text" src="images/electronica_prototipo_armado.png" width="500px">
+<p align="center"><img title="a title" alt="Alt text" src="images/electronica_prototipo_armado.png" width="500px"></p>
 
 ### Prototipado
 
@@ -20,7 +20,7 @@ Se agregan dos nuevas funcionalidades:
 1. **Fuente energética con baterías:** Agregar al nodo baterías de litio 18650 con toda su electrónica para un correcto funcionamiento (cargadores y elevadores).
 2. **Distribución energética de componentes:** Dividir la fuente de energía en una que apaga los sensores cuando no están midiendo para reducir el consumo.
 
-<img title="a title" alt="Alt text" src="images/electronica_pcb_componentes.jpg">
+<p align="center"><img title="a title" alt="Alt text" src="images/electronica_pcb_componentes.jpg"></p>
 
 Se reviso factibilidad y detalles del proceso para fabricación de la placa, se vieron dos opciones principales:
 
@@ -43,7 +43,7 @@ Ambas opciones tiene un costo cercano a los 200 dolares americanos por placa. Pu
 
 ### Uso y programación
 
-<img title="a title" alt="Alt text" src="images/PCBnombrada_v0.png">
+<p align="center"><img title="a title" alt="Alt text" src="images/PCBnombrada_v0.png"></p>
 
 
 Para utilizar la placa considerar los siguientes materiales:
@@ -67,7 +67,9 @@ La programación se realiza en Arduino IDE y el programa se encuentra en el sigu
 
 4. Seleccionar **el puerto** de conexión correspondiente en la pestaña herramientas.
 5. Seleccionar  **Arduino Uno** en la pestaña herramientas.
-<img title="a title" alt="Alt text" src="images/electronica_pcb_programacion_arduino.png" width="400px">
+
+<p align="center"><img title="a title" alt="Alt text" src="images/electronica_pcb_programacion_arduino.png" width="400px"></p>
+
 6. Presionar "Subir código".
 
 ### Siguientes pasos

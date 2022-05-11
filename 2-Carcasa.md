@@ -10,34 +10,34 @@ A continuación detalles sobre el diseño y construcción de la carcasa sumergib
 
 Se fabricó un primer prototipo para realizar pruebas con los sensores de presión (nivel de agua) para sumergirlos en un pozo de unos ~5 metros. Se usaron materiales de plomería genéricos y se rellenó con arroz para absorver la humedad en caso de filtraciones.
 
-<img title="a title" alt="Alt text" src="images/carcasa_primera_version_2.png" width="200px">
-<img title="a title" alt="Alt text" src="images/carcasa_primera_version.jpeg" width="300px">
+<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_primera_version_2.png" width="200px">
+<img title="a title" alt="Alt text" src="images/carcasa_primera_version.jpeg" width="300px"></p>
 
 Este prototipo estuvo sumergido unos 45 minutos y al sacarlo si tenía bastante humedad dentro, pero no tenía un "pozo de agua", la humedad si era suficiente para que en el tiempo dañara la electrónica. Se cree que las filtraciones fueron por las tapas de los sensores de presión.xzx
 
 Se comenzó a diseñar una nueva versión de la carcasa, ahora sumando los requerimientos de priorizar materiales accesibles y disponibles en el mercado local. La geometría inicial contempla un tubo de acrílico transparente, tapas y un soporte interno para la electrónica, además de espacios laterales para la salida de los sensores y cable UTP. Las tapas laterales realizan el sello total del dispositivo en esta versión, mediante o'rings y fijándose al soporte interno que es lo que mantendrá las tapas a presión dentro del sistema generando la protección deseada IP69.
 
 
-<img title="a title" alt="Alt text" src="images/Nodo completo.JPG">
+<p align="center"><img title="a title" alt="Alt text" src="images/Nodo completo.JPG"></p>
 
 
 Se realizaron diferentes pruebas del nuevo prototipo, tanto a los componentes de sello de los sensores como al equipo completo en un ambiente controlado compuesto de un tubo de pvc de 6 metros de alto para simular la presión de una columna de agua.
 
-<img title="a title" alt="Alt text" src="images/carcasa_prototipo_1.jpg" width="300px">
+<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_prototipo_1.jpg" width="300px"></p>
 
 Finalmente luego de algunas iteraciones se logro un sistema sin filtraciones como observado en la foto de abajo :).
 
-<img title="a title" alt="Alt text" src="images/carcasa_prototipo_2.jpg" width="300px">
+<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_prototipo_2.jpg" width="300px"></p>
 
 Se probó este ptototipo luego en un pozo en el sector de Laguna Caren, aquí se realizaron pruebas sumergiendolo a mayores profundidades progresivamente (10, 20, 30 y 40mt).
 
-<img title="a title" alt="Alt text" src="images/carcasa_validacion_1.jpg" width="300px">
+<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_validacion_1.jpg" width="300px"></p>
 
 Hubo de todos los resultados, positivos donde el permanecio sumergido sin filtraciones y también con filtraciones. Se observan algunos casos de carcasa con filtraciones más abajo.
 
-<img title="a title" alt="Alt text" src="images/carcasa_validacion_3.jpg" width="300px">
+<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_validacion_3.jpg" width="300px"></p>
 
-<img title="a title" alt="Alt text" src="images/carcasa_validacion_2.jpg" width="300px">
+<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_validacion_2.jpg" width="300px"></p>
 
 ### Archivos de diseño y fabricación
 
@@ -45,7 +45,7 @@ Se pueden encontrar los archivos de diseño, materiales e instrucciones en el si
 
 https://github.com/niclabs/water-monitoring/tree/master/5.%20Hito%20Carcasa
 
-<img title="a title" alt="Alt text" src="images/carcasa_planos_placa.png" width="200px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_sup.png" width="200px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_inf.png" width="200px">
+<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_planos_placa.png" width="200px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_sup.png" width="200px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_inf.png" width="200px"></p>
 
 ### Siguientes pasos
 _\*(WIP matías)\*_
