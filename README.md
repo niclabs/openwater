@@ -8,7 +8,7 @@ En enero del 2020 el consorcio formado por NIC Labs, el Departamento de Ingenier
 
 La investigación científica es llevada a desarrollo mediante fondos otorgados por FONDEF ID19I10363.
 
-[<img align="middle" title="a title" alt="Alt text" src="images/inicio_video2.png" width="500px">](https://www.youtube.com/watch?v=SJs9-OBhGeA)
+[<img style="float: center;"  title="a title" alt="Alt text" src="images/inicio_video2.png" width="500px">](https://www.youtube.com/watch?v=SJs9-OBhGeA)
 
 </p>
 
@@ -49,7 +49,7 @@ Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrollada
 
 ## Licencia
 
-<img title="Licencia CC BY-NC-SA 4.0" alt="Licencia CC BY-NC-SA 4.0" src="images/inicio_licencia.png" width="150px">
+<img style="float: center;" title="Licencia CC BY-NC-SA 4.0" alt="Licencia CC BY-NC-SA 4.0" src="images/inicio_licencia.png" width="150px" class="center">
 
 **CC BY-NC-SA 4.0**
 
