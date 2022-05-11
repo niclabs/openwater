@@ -4,7 +4,8 @@
 
 
 <p style="text-align:justify;">
-En enero del 2020 el consorcio formado por NIC Labs, el Departamento de Ingeniería Eléctrica y Geología de la Universidad de chile, y además empresas externas, propusieron diseñar y desarrollar un prototipo experimental con el objetivo de ligrar tener un sistema de medición multiparamétrico abierto, con el cual se pueda masificar el monitoreo de la calidad de agua tanto superficial como subterranea, con la adaptación de la tecnología de bajo costo.
+
+En enero del 2020, bajo el marco del proyecto FONDEF IDeA ID19I10363, se unieron el NIC Chile Research Labs, el Departamento de Ingeniería Eléctrica y el Departamento de Geología de la Universidad de Chile, junto con las entidades asociadas Arcadis SPA, University of Illinois at Urbana-Champaign, Esval y la Dirección General de Aguas para proponer diseñar y desarrollar un prototipo experimental con el objetivo de lograr tener un sistema de medición multiparamétrico abierto, con el cual se pueda masificar el monitoreo de la calidad de agua tanto superficial como subterranea, con la adaptación de la tecnología de bajo costo.
 
 La investigación científica es llevada a desarrollo mediante fondos otorgados por FONDEF ID19I10363.
 
@@ -12,15 +13,13 @@ La investigación científica es llevada a desarrollo mediante fondos otorgados 
 
 </p>
 
-## Estructura
+Este sitio constituye un esfuerzo por documentar las consideraciones de diseño, avances y logros obtenidos para las diferentes áreas de trabajo. Se divide la estructura en las siguientes secciones:
 
-Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrolladas. Desde las estaciones de monitoreo hasta la interfaz de usuario que muestra la información procesada por el sistema.
-
-1. 🌡 Sensores
-2. 💻 Electrónica
-3. 📦 Carcasa Sumergible
-4. 📡 Comunicación Inalámbrica
-5. 🤖 Sistema Experto
+1. [🌡 Sensores](0-Sensores.md)
+2. [💻 Electrónica](1-Electrónica.md)
+3. [📦 Carcasa sumergible](2-Carcasa.md)
+4. [📡 Comunicación inalámbrica](3-Comunicación-inalámbrica.md)
+5. [🤖 Sistema experto](4-Sistema%20Experto.md)
 
 <!--
 ## Noticias
