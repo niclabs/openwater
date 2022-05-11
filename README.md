@@ -37,7 +37,7 @@ Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrollada
 
 ## Licencia
 
-<img title="a title" alt="Alt text" src="images/inicio_licencia.png" width="200px">
+<img title="a title" alt="Alt text" src="images/inicio_licencia.png" width="150px">
 
 **CC BY-NC-SA 4.0**
 
