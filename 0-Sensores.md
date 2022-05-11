@@ -53,6 +53,7 @@ Para esto se utilizó baldes de agua en condicinoes controladas que simulan las 
 | pH          | ✅ Aprobado para proseguir experimentos | Operación dentro de lo esperado. Error menor a 1 y buen desempeño en sumersión continua |
 | Conductividad Eléctrica | ⚠️ En evaluación | Buena calidad de medición pero presentó problemas en sumersión continua. Se realizarán nuevos experimentos |
 | Turbiedad   | ❌ Reprobado | Error muy alto (mayor a 1000 TPU) y sensor muy sensible a variables externas |
+
 </p>
 
 <b> * Más detalles sobre los experimentos en el repositorio del proyecto </b>

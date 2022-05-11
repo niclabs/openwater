@@ -43,6 +43,7 @@ Las secciones del proyecto abarcan las diferentes áreas de trabajo desarrollada
 <img title="Gabriel Flores" alt="Gabriel Flores" src="images/inicio_equipo_gabriel.jpg" width="60px">
 <img title="Gabriela Mendoza" alt="Gabriela Mendoza" src="images/inicio_equipo_gabriela.jpg" width="60px">
 <img title="Maximiliano Jones" alt="Maximiliano Jones" src="images/inicio_equipo_maximiliano.jpg" width="60px">
+<img title="María Jesus" alt="María Jesus" src="images/inicio_equipo_mariajesus.jpg" width="60px">
 <img title="Amilcar Aravena" alt="Amilcar Aravena" src="images/inicio_equipo_amilcar.jpg" width="60px">
 <img title="Matías Macaya" alt="Matías Macaya" src="images/inicio_equipo_matiasmacaya.jpg" width="60px">
 
