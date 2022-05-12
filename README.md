@@ -36,6 +36,7 @@ Este sitio constituye un esfuerzo por documentar las consideraciones de diseño,
 [<img title="Linda Daniele" alt="Linda Daniele" src="images/inicio_equipo_linda.jpg" width="60px">](https://www.linkedin.com/in/linda-daniele-9a35bb39/)
 [<img title="Doris Saez" alt="Doris Saez" src="images/inicio_equipo_doris.jpg" width="60px">](https://www.linkedin.com/in/doris-saez-ba2ab5146/)
 [<img title="Juan Salamanca" alt="Juan Salamanca" src="images/inicio_equipo_juan.jpg" width="60px">](https://www.linkedin.com/in/juan-salamanca-8b784411/)
+[<img title="Javier Bustos" alt="Javier Bustos" src="images/inicio_equipo_javier.jpg" width="60px">](https://www.linkedin.com/in/javier-bustos-jiménez-786788/)
 [<img title="Matías Taucare" alt="Matías Taucare" src="images/inicio_equipo_matiastaucare.jpg" width="60px">](https://www.linkedin.com/in/matias-taucare-toro/)
 [<img title="Francisco Jaramillo" alt="Francisco Jaramillo" src="images/inicio_equipo_francisco.jpg" width="60px">](https://www.linkedin.com/in/francisco-jaramillo-montoya-0a6b8750/)
 [<img title="Rodrigo Muñoz" alt="Rodrigo Muñoz" src="images/inicio_equipo_rodrigo.jpg" width="60px">](https://www.linkedin.com/in/rodrigomunozlara/)
