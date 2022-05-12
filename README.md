@@ -1,6 +1,6 @@
-<h1 style="text-align:center;color:#000610">💧 Fondef Open Water</h1>
+<h1 style="text-align:center;color:#000610">Sistema abierto experto para apoyar la gestión de recursos hídricos mediante monitoreo de bajo costo en tiempo real de aguas superficiales y subterráneas</h1>
 
-<h5 style="text-align:center;color:DodgerBlue;"> Sistema abierto experto para apoyar la gestión de recursos hídricos mediante monitoreo de bajo costo en tiempo real de aguas superficiales y subterráneas </h5>
+<h5 style="text-align:center;color:DodgerBlue;">  </h5>
 
 
 <p style="text-align:justify;">
