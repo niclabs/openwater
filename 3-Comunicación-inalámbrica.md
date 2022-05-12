@@ -3,16 +3,15 @@
 __*WIP: agregar distancia máxima de comunicación*__
 
 ## Introducción
-La figura 1 muestra el diagrama completo de conectividad de la solución. El sistema de comunicación a implementar utiliza un medio guiado para la comunicación entre el módulo de captura, ubicado en el fondo de la masa de agua y el módulo de comunicación, ubicado en la superficie. Se utiliza la tecnología LoRaWAN para la transmisión de datos entre el módulo de comunicación y el network server. Finalmente la comunicación entre el Network Server y el Sistema Experto es a través de tecnología Web utilizando el protocolo HTTP. Los datos de los sensores son almacenados en una Base de Datos para ser posteriormente procesados por el sistema experto.
+Se muestra el diagrama completo de conectividad de la solución. El sistema de comunicación a implementar utiliza un medio guiado para la comunicación entre el módulo de captura, ubicado en el fondo de la masa de agua y el módulo de comunicación, ubicado en la superficie. Se utiliza la tecnología LoRaWAN para la transmisión de datos entre el módulo de comunicación y el network server. Finalmente la comunicación entre el Network Server y el Sistema Experto es a través de tecnología Web utilizando el protocolo HTTP. Los datos de los sensores son almacenados en una Base de Datos para ser posteriormente procesados por el sistema experto.
 
-<p align="center"><img title="a title" alt="Alt text" src="images/diagrama_bloques_solucion.PNG"></p>
-Figura 1. Diagrama de bloques de la solución
+<p align="center" style="font-style: italic;color:#8F9A9B"><img title="a title" alt="Alt text" src="images/diagrama_bloques_solucion.PNG" width="550px"> Diagrama de bloques de la solución </p>
 
 ## Nodo Sensor
 ### Módulo de Captura
 El módulo de captura está compuesto por cuatro elementos:
 
- * Transductores (Presión, pH, Turbidez, Temperatura y Conductividad Eléctrica): Estos elementos son los encargados de convertir una medida física a una corriente o voltaje interpretable por un circuito electrónico.
+ * Sensores o transductores: referirse a la sección [Sensores](0-Sensores.md). 
  * Placa Electrónica o PCB: encargada del procesamiento de la información además del envío de ella hacia el módulo de comunicación ubicado en la superficie. Este módulo además cuenta con un reloj encargado de marcar las muestras con la hora de su captura.
  * Cable de par trenzado. Este cable es el encargado de transportar los datos entre el módulo de captura y el módulo de comunicación. Para ello se utiliza un cable UTP dentro de una manguera para evitar su corrosión.
  * Carcasa sumergible: Encargada de dar la protección necesaria para poder sumergir todos los elementos anteriores.
