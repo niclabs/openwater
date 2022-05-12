@@ -18,6 +18,9 @@ TODO: poner tabla de resuemn resultados sensores.
 <p align="center"><img title="a title" alt="Alt text" src="images/sensor_agua.png" width="500px"></p>
 -->
 
+> <b> Para detalle sobre los experimentos en el repositorio del proyecto: </b>
+> https://github.com/niclabs/openwater-es/tree/main/1.%20Sensores
+
 ### Experimentos y resultados
 
 Los sensores se encargan de convertir una medida física como temperatura, pH o presión atmosférica (por ejemplo) a una corriente o voltaje interpretable por un circuito electrónico.
@@ -58,12 +61,6 @@ Para esto se utilizó baldes de agua en condicinoes controladas que simulan las 
 
 </p>
 
-> <b> Más detalles sobre los experimentos en el repositorio del proyecto: </b>
-> https://github.com/niclabs/openwater-es/tree/main/1.%20Sensores
-
-### Siguientes pasos
-
-...
 
 
 <!--

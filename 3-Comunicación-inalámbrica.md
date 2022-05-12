@@ -1,7 +1,5 @@
 # 📡 Comunicación Inalámbrica
 
-__*WIP: agregar distancia máxima de comunicación*__
-
 ## Introducción
 Se muestra el diagrama completo de conectividad de la solución. El sistema de comunicación a implementar utiliza un medio guiado para la comunicación entre el módulo de captura, ubicado en el fondo de la masa de agua y el módulo de comunicación, ubicado en la superficie. Se utiliza la tecnología LoRaWAN para la transmisión de datos entre el módulo de comunicación y el network server. Finalmente la comunicación entre el Network Server y el Sistema Experto es a través de tecnología Web utilizando el protocolo HTTP. Los datos de los sensores son almacenados en una Base de Datos para ser posteriormente procesados por el sistema experto.
 
@@ -72,13 +70,14 @@ El sistema experto procesa los mensajes HTTP y extrae las medidas provenientes d
  * Marca de tiempo en la que se realizó la medida
  * Valor de la medida
 
+<!--
 ## Resultados
 
 - Distancia
 - RSSI, SNR
 - Autonomía
 - Tasa de error en el cable de comunicación.
-
+-->
 
 ----
 
