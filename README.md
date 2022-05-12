@@ -60,6 +60,11 @@ Open Water: Fondef IDeA ID19I10363 © 2022 by Universidad de Chile is licensed u
 
 This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms.
 
+## Contacto
+
+Felices de escucharte, escribenos tus consultas, comentarios o si solo quieres decir hola, escribenos a:
+[openwater@niclabs.cl](openwater@niclabs.cl)
+
 <!--
 BY: Credit must be given to you, the creator.
 NC: Only noncommercial use of your work is permitted. Noncommercial means not primarily intended for or directed towards commercial advantage or monetary compensation.
