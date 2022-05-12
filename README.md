@@ -9,6 +9,8 @@ En enero del 2020, bajo el marco del proyecto FONDEF IDeA ID19I10363, se unieron
 
 La investigación científica es llevada a desarrollo mediante fondos otorgados por FONDEF ID19I10363.
 
+Para saber más, ingresa al  [siguiente artículo](http://bitacoras.niclabs.cl/2022/05/sistema-abierto-experto-para-apoyar-la.html)
+
 [<p align="center"><img style="float: center;"  title="a title" alt="Alt text" src="images/inicio_video2.png" width="500px"></p>](https://www.youtube.com/watch?v=SJs9-OBhGeA)
 
 </p>
