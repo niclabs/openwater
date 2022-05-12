@@ -67,7 +67,7 @@ Más detalle sobre lista de materiales e instrucciones de armado de la carcasa s
 
 Se pueden encontrar los archivos de diseño, materiales e instrucciones en el siguiente link.
 
-- [github.com/niclabs/openwater-es/2. Carcasa](https://github.com/niclabs/openwater-es/tree/main/2.%20Carcasa)
+- [/niclabs/openwater-es/2. Carcasa](https://github.com/niclabs/openwater-es/tree/main/2.%20Carcasa)
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_planos_placa.png" width="200px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_sup.png" width="200px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_inf.png" width="200px"></p>
 
