@@ -45,8 +45,7 @@ Ambas opciones tiene un costo cercano a los 200 dolares americanos por placa. Pu
 
 <p align="center"><img title="a title" alt="Alt text" src="images/PCBnombrada_v0.png"></p>
 
-
-Para utilizar la placa considerar los siguientes materiales:
+##### Materiales
 
 1. Componentes externos
     a.  Baterías 18650
@@ -57,13 +56,16 @@ Para utilizar la placa considerar los siguientes materiales:
     b. Cable de programación (FTDI)
 3. Sensores
 
-Para programar la placa considerar los sigueintes pasos generales:
+##### Programación
 
 1. PCB debe estar alimentada por batería o cable de energía.
 2. Conectar un **adaptador FTDI-USB** en el puerto FTDI de la PCB por un lado y en puerto USB del computador por el otro.
 3. Dejar el **interruptor en FTDI** (se encuentra al lado de conexión a programador).
 
-La programación se realiza en Arduino IDE y el programa se encuentra en el siguiente [enlace](https://github.com/niclabs/water-monitoring/tree/master/6.%20Electr%C3%B3nica/PCB-MCI/Codigo_Final). Para cargar el programa continuar con los pasos:
+    <br>
+    (La programación se realiza en Arduino IDE y el programa se encuentra en el siguiente [enlace](https://github.com/niclabs/water-monitoring/tree/master/6.%20Electr%C3%B3nica/PCB-MCI/Codigo_Final).
+    <br>
+    <br>
 
 4. Seleccionar **el puerto** de conexión correspondiente en la pestaña herramientas.
 5. Seleccionar  **Arduino Uno** en la pestaña herramientas.
@@ -71,6 +73,12 @@ La programación se realiza en Arduino IDE y el programa se encuentra en el sigu
 <p align="center"><img title="a title" alt="Alt text" src="images/electronica_pcb_programacion_arduino.png" width="400px"></p>
 
 6. Presionar "Subir código".
+
+### Resultados
+
+La placa tiene un **tamaño** de  22,5 cm largo x 3,2 cm ancho x 1,7 cm de alto con todas sus piezas soldadas y presenta una **autonomía** de 27 días con dos baterías que suman un total de 5000 mAh. 
+
+El **costo** de fabricar una placa PCBN ronda los USD\$200 más USD\$100 aproximadamente para componentes externo para el funcionamiento de la placa.
 
 ### Siguientes pasos
 
