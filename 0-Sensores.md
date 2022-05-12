@@ -24,7 +24,7 @@ Los sensores se encargan de convertir una medida física como temperatura, pH o 
 
 La calidad de los datos generados depende directamente de los sensores, y esto que afecta el desempeño del sistema y la calidad de información presentada a los usuarios. Por esto los sensores a utilizar son de vital importancia pero mejores sensores implican un mayor precio, y el objetivo del proyecto es generar un sistema de bajo costo.
 
-Al entender mejor el comportamiento de los sensores y acotando y definiendo sus alcances se busca generar un óptimo equilibrio entre costo de los equipos y desempeños esperados del sistema Muchas veces equipos industriales o profesionales dan mayor presición de la necesaria para análisis de dinámicas y anomalías de acuíferos (considerando una holgura) y ello es calidad perdida, cuyo valor económico se podría ahora o aprovechar en otras partes del problema.
+Al entender mejor el comportamiento de los sensores y acotando y definiendo sus alcances se busca generar un óptimo equilibrio entre costo de los equipos y desempeños esperados del sistema Muchas veces equipos industriales o profesionales dan mayor precisión de la necesaria para análisis de dinámicas y anomalías de acuíferos (considerando una holgura) y ello es calidad perdida, cuyo valor económico se podría ahora o aprovechar en otras partes del problema.
 
 En la siguiente tabla encontramos los sensores en proceso de pruebas para medir 5 variables fisicoquímicas relevantes:
 
