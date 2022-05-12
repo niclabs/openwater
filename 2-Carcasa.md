@@ -33,6 +33,12 @@ Hubo diferentes resultados, positivos donde carcasa permanecio sumergida sin fil
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_validacion_2.jpg" width="300px"></p>
 
+Además de la carcasa, se diseño un cable de comunicación entre el módulo de captura de datos bajo el agua y el módulo de comunicación en la superficie. El foco fue lograr un bajo costo lo que se logró con éxito costando menos de la mitad que versiones comerciales.
+
+<p align="center">
+<img title="a title" alt="Alt text" src="images/carcasa_cable_manguera.png" height="250px">
+<img title="a title" alt="Alt text" src="images/carcasa_cable_union.png" height="250px">
+</p>
 
 ### Resultados
 
@@ -52,7 +58,7 @@ Se alcanza un grado de **protección IP** IP66 pero de manera parcial, la carcas
 
 Más detalle sobre lista de materiales e instrucciones de armado de la carcasa se pueden encontrar en el manual de armado:
 
-[]()
+- [Manual armado carcasa v2 - 2022 Feb](https://github.com/niclabs/openwater-es/blob/main/2.%20Carcasa/Manual%20armado%20carcasa%20v2%20-%202022Feb.pdf)
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_listamateriales.png" width="500px"></p>
 
@@ -61,7 +67,7 @@ Más detalle sobre lista de materiales e instrucciones de armado de la carcasa s
 
 Se pueden encontrar los archivos de diseño, materiales e instrucciones en el siguiente link.
 
-https://github.com/niclabs/water-monitoring/tree/master/5.%20Hito%20Carcasa
+- [github.com/niclabs/openwater-es/2. Carcasa](https://github.com/niclabs/openwater-es/tree/main/2.%20Carcasa)
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_planos_placa.png" width="200px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_sup.png" width="200px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_inf.png" width="200px"></p>
 
