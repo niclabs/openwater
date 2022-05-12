@@ -8,7 +8,7 @@
 - 🔧 Open hardware
 - 🌊 Aplicación en aguas superficiales y subterraneas
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+<!--[GitHub](https://github.com/docsifyjs/docsify/)-_>
 [Get Started](#docsify)
 
 <!-- background image -->
