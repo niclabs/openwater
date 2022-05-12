@@ -36,8 +36,8 @@ Hubo diferentes resultados, positivos donde carcasa permanecio sumergida sin fil
 Además de la carcasa, se diseño un cable de comunicación entre el módulo de captura de datos bajo el agua y el módulo de comunicación en la superficie. El foco fue lograr un bajo costo lo que se logró con éxito costando menos de la mitad que versiones comerciales.
 
 <p align="center">
-<img title="a title" alt="Alt text" src="images/carcasa_cable_manguera.png" height="250px">
-<img title="a title" alt="Alt text" src="images/carcasa_cable_union.png" height="250px">
+<img title="a title" alt="Alt text" src="images/carcasa_cable_manguera.PNG" height="250px">
+<img title="a title" alt="Alt text" src="images/carcasa_cable_union.PNG" height="250px">
 </p>
 
 ### Resultados
