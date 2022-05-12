@@ -59,7 +59,7 @@ Para esto se utilizó baldes de agua en condicinoes controladas que simulan las 
 </p>
 
 > <b> Más detalles sobre los experimentos en el repositorio del proyecto: </b>
-> []()
+> https://github.com/niclabs/openwater-es/tree/main/1.%20Sensores
 
 ### Siguientes pasos
 
