@@ -1,4 +1,4 @@
-- [Inicio](/)
+- [Inicio](README.md)
 - [Sensores](0-Sensores.md)
 - [Electrónica](1-Electrónica.md)
 - [Carcasa](2-Carcasa.md)
