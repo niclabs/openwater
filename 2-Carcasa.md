@@ -48,7 +48,7 @@ El equipo, o módulo de captura de datos, una vez completamente armado tiene una
 
 El **costo** de materiales se desprende de la carcasa y el cable de comunicación. El cable de comunicación puede variar su largo dependiendo de la aplicación, asumimos el mayor largo de 50 metros para la estimación.
 
-<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_costos.png" width="500px"></p>
+<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_costos.png" width="400px"></p>
 
 Se alcanza un grado de **protección IP** IP66 pero de manera parcial, la carcasa no tiene un comportamiento confiable y está pendiente iterar sobre el diseño.
 
@@ -69,7 +69,7 @@ Se pueden encontrar los archivos de diseño, materiales e instrucciones en el si
 
 - [/niclabs/openwater-es/2. Carcasa](https://github.com/niclabs/openwater-es/tree/main/2.%20Carcasa)
 
-<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_planos_placa.png" width="200px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_sup.png" width="200px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_inf.png" width="200px"></p>
+<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_planos_placa.png" width="220px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_sup.png" width="220px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_inf.png" width="220px"></p>
 
 ### Siguientes pasos
 _\*(WIP matías)\*_
