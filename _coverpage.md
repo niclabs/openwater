@@ -9,7 +9,7 @@
 - 🌊 Aplicación en aguas superficiales y subterraneas
 
 <!--[GitHub](https://github.com/docsifyjs/docsify/)-->
-[Comenzar](#docsify)
+[Comenzar](#/README)
 
 <!-- background image -->
 
