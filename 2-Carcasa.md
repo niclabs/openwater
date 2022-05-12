@@ -35,6 +35,12 @@ Hubo de todos los resultados, positivos donde el permanecio sumergido sin filtra
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_validacion_2.jpg" width="300px"></p>
 
+
+### Lista de Materiales e instrucciones
+
+
+
+
 ### Archivos de diseño y fabricación
 
 Se pueden encontrar los archivos de diseño, materiales e instrucciones en el siguiente link.
