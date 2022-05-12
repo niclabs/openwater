@@ -14,15 +14,17 @@ TODO: poner tabla de resuemn resultados sensores.
 - poner figura del sistema completo donde sensores es input
 -->
 
+<!--
 <p align="center"><img title="a title" alt="Alt text" src="images/sensor_agua.png" width="500px"></p>
+-->
 
 ### Experimentos y resultados
 
-La calidad de los datos generados que alimenten el sistema afecta directamente su desempeño y la calidad de información presentada a los usuarios del sistema, por esto los sensores a utilizar son de vital importancia. Pero a la vez mejores sensores implican un mayor precio, y el objetivo del proyecto es generar un sistema de bajo costo.
+Los sensores se encargan de convertir una medida física como temperatura, pH o presión atmosférica (por ejemplo) a una corriente o voltaje interpretable por un circuito electrónico.
 
-Entonces la caracterización del comportamiento de los sensores y definición de sus alcances permite generar un óptimo equilibrio entre costo de los equipos y desempeños esperados del sistema para los casos relevantes de uso, en los rangos definidos.
+La calidad de los datos generados depende directamente de los sensores, y esto que afecta el desempeño del sistema y la calidad de información presentada a los usuarios. Por esto los sensores a utilizar son de vital importancia pero mejores sensores implican un mayor precio, y el objetivo del proyecto es generar un sistema de bajo costo.
 
-El objetivo es encontrar dispositivos de un costo bajo pero cuya calidad de medición sea la suficiente para operar el sistema. Muchas veces sensores industriales o profesionales pueden estar sobrestimados para la aplicación específica y tener una presición mayor de la necesaria para un análisis de las dinámicas y anomalías de acuíferos.
+Al entender mejor el comportamiento de los sensores y acotando y definiendo sus alcances se busca generar un óptimo equilibrio entre costo de los equipos y desempeños esperados del sistema Muchas veces equipos industriales o profesionales dan mayor presición de la necesaria para análisis de dinámicas y anomalías de acuíferos (considerando una holgura) y ello es calidad perdida, cuyo valor económico se podría ahora o aprovechar en otras partes del problema.
 
 En la siguiente tabla encontramos los sensores en proceso de pruebas para medir 5 variables fisicoquímicas relevantes:
 
