@@ -16,5 +16,4 @@
 ![](images/cover_background_1.jpg)
 
 <!-- background color -->
-
-![color](#f0f0f0)
+![color](#fdf2ef)
