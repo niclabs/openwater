@@ -62,8 +62,9 @@ This license requires that reusers give credit to the creator. It allows reusers
 
 ## Contacto
 
-Felices de escucharte, escribenos tus consultas, comentarios o si solo quieres decir hola, escribenos a:
-[openwater@niclabs.cl](openwater@niclabs.cl)
+¿Quieres hablar? Escribenos tus consultas, comentarios o si solo quieres decir hola, felices de escucharte:
+
+> [openwater@niclabs.cl](openwater@niclabs.cl)
 
 <!--
 BY: Credit must be given to you, the creator.
