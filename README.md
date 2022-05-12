@@ -30,7 +30,11 @@ Este sitio constituye un esfuerzo por documentar las consideraciones de diseño,
 [![Everything Is AWESOME](images/news_bitacoraniclabs.png)](https://www.youtube.com/watch?v=SJs9-OBhGeA)
 -->
 
+<br>
+
 ## Equipo
+
+<br>
 
 [<img title="Sandra Cespedes" alt="Sandra Cespedes" src="images/inicio_equipo_sandra.jpg" width="60px">](https://www.linkedin.com/in/scespedes/)
 [<img title="Linda Daniele" alt="Linda Daniele" src="images/inicio_equipo_linda.jpg" width="60px">](https://www.linkedin.com/in/linda-daniele-9a35bb39/)
@@ -51,7 +55,11 @@ Este sitio constituye un esfuerzo por documentar las consideraciones de diseño,
 
 _*Presiona en su imagen para visitar su linkedin o sitio web._
 
+<br>
+
 ## Licencia
+
+<br>
 
 <img title="Licencia CC BY-NC-SA 4.0" alt="Licencia CC BY-NC-SA 4.0" src="images/inicio_licencia.png" width="150px" class="center">
 
@@ -63,7 +71,11 @@ Open Water: Fondef IDeA ID19I10363 © 2022 by Universidad de Chile is licensed u
 
 This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms.
 
+<br>
+
 ## Contacto
+
+<br>
 
 ¿Quieres hablar? Escribenos tus consultas, comentarios o si solo quieres decir hola:
 
