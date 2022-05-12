@@ -10,3 +10,7 @@
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#docsify)
+
+<!-- background image -->
+
+![](images/cover_background_1.jpg)
