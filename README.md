@@ -34,8 +34,6 @@ Este sitio constituye un esfuerzo por documentar las consideraciones de diseño,
 
 ## Equipo
 
-<br>
-
 [<img title="Sandra Cespedes" alt="Sandra Cespedes" src="images/inicio_equipo_sandra.jpg" width="60px">](https://www.linkedin.com/in/scespedes/)
 [<img title="Linda Daniele" alt="Linda Daniele" src="images/inicio_equipo_linda.jpg" width="60px">](https://www.linkedin.com/in/linda-daniele-9a35bb39/)
 [<img title="Doris Saez" alt="Doris Saez" src="images/inicio_equipo_doris.jpg" width="60px">](https://www.linkedin.com/in/doris-saez-ba2ab5146/)
@@ -59,8 +57,6 @@ _*Presiona en su imagen para visitar su linkedin o sitio web._
 
 ## Licencia
 
-<br>
-
 <img title="Licencia CC BY-NC-SA 4.0" alt="Licencia CC BY-NC-SA 4.0" src="images/inicio_licencia.png" width="150px" class="center">
 
 **CC BY-NC-SA 4.0**
@@ -74,8 +70,6 @@ This license requires that reusers give credit to the creator. It allows reusers
 <br>
 
 ## Contacto
-
-<br>
 
 ¿Quieres hablar? Escribenos tus consultas, comentarios o si solo quieres decir hola:
 
