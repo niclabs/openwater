@@ -71,8 +71,6 @@ NC: Only noncommercial use of your work is permitted. Noncommercial means not pr
 SA: Adaptations must be shared under the same terms.
 -->
 
-<br>
-
 <!--
 <b>Editar bitacora</b>
 
