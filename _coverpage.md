@@ -5,7 +5,7 @@
 > Sistema de bajo costo de medición y monitoreo de agua en tiempo real.
 
 - 🌱 Simple y de bajo costo
-- 🔧 Open hardware
+- 🔧 Open hardware adaptable
 - 🌊 Aplicación en aguas superficiales y subterraneas
 
 <!--[GitHub](https://github.com/docsifyjs/docsify/)-->
