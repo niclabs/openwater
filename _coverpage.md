@@ -14,6 +14,3 @@
 <!-- background image -->
 
 ![](images/cover_background_1.jpg)
-
-<!-- background color -->
-![color](#fdf2ef)
