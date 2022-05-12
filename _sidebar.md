@@ -1,9 +1,9 @@
 - [Inicio](/)
-- [1. Sensores](0-Sensores.md)
-- [2. Electrónica](1-Electrónica.md)
-- [3. Carcasa](2-Carcasa.md)
-- [4. Comunicación Inalámbrica](3-Comunicación-inalámbrica.md)
-- [5. Sistema Experto](4-Sistema%20Experto.md)
+- [Sensores](0-Sensores.md)
+- [Electrónica](1-Electrónica.md)
+- [Carcasa](2-Carcasa.md)
+- [Comunicación Inalámbrica](3-Comunicación-inalámbrica.md)
+- [Sistema Experto](4-Sistema%20Experto.md)
 
 <!--
     - [Estructura Wiki](?id=estructura-wiki)
