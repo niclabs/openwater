@@ -46,7 +46,7 @@ Este sitio constituye un esfuerzo por documentar las consideraciones de diseño,
 [<img title="Amilcar Aravena" alt="Amilcar Aravena" src="images/inicio_equipo_amilcar.jpg" width="60px">](https://www.linkedin.com/in/amilcar-aravena/)
 [<img title="Matías Macaya" alt="Matías Macaya" src="images/inicio_equipo_matiasmacaya.jpg" width="60px">](https://www.linkedin.com/in/matiasmacayaleiva/)
 
-_*Presiona en su imagen para visitar su linkedin o sitio web_
+_*Presiona en su imagen para visitar su linkedin o sitio web._
 
 ## Licencia
 
