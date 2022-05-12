@@ -10,7 +10,7 @@
 
 <!--[GitHub](https://github.com/docsifyjs/docsify/)-->
 [English](https://niclabs.cl/openwater-en)
-[Comenzar](README.md)
+[Documentación](README.md)
 
 <!-- background image -->
 
