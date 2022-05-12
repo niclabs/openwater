@@ -36,12 +36,23 @@ Hubo de todos los resultados, positivos donde el permanecio sumergido sin filtra
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_validacion_2.jpg" width="300px"></p>
 
 
-### Lista de Materiales e instrucciones
+### Resultados
 
+El equipo, o módulo de captura de datos, una vez completamente armado tiene una forma cilindrica de un **tamaño** de 55 cm de largo y 6,3 cm de radio.
 
+<p align="center"><img title="a title" alt="Alt text" src="images/tamaño_equipo_captura.png" width="600px"></p>
 
+El **costo** de materiales se desprende de la carcasa y el cable de comunicación. El cable de comunicación puede variar su largo dependiendo de la aplicación, asumimos el mayor largo de 50 metros para la estimación.
 
-### Archivos de diseño y fabricación
+<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_costos.png" width="500px"></p>
+
+Se alcanza un grado de **protección IP** IP66 pero de manera parcial, la carcasa no tiene un comportamiento confiable y es 
+
+### Archivos importantes
+
+#### Lista de Materiales e instrucciones
+
+#### Diseño y fabricación
 
 Se pueden encontrar los archivos de diseño, materiales e instrucciones en el siguiente link.
 
