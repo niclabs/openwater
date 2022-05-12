@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# Fondef IDeA <small>ID19I10363</small>: Open Water
+# Fondef IDeA ID19I10363: Open Water
 
 > Sistema de bajo costo de medición y monitoreo de agua en tiempo real.
 
@@ -14,3 +14,7 @@
 <!-- background image -->
 
 ![](images/cover_background_1.jpg)
+
+<!-- background color -->
+
+![color](#f0f0f0)
