@@ -14,7 +14,7 @@ Este prototipo estuvo sumergido unos 45 minutos y al sacarlo si tenía bastante 
 Se comenzó a diseñar una nueva versión de la carcasa, ahora sumando los requerimientos de priorizar materiales accesibles y disponibles en el mercado local. La geometría inicial contempla un tubo de acrílico transparente, tapas y un soporte interno para la electrónica, además de espacios laterales para la salida de los sensores y cable UTP. Las tapas laterales realizan el sello total del dispositivo en esta versión, mediante o'rings y fijándose al soporte interno que es lo que mantendrá las tapas a presión dentro del sistema generando la protección deseada IP69.
 
 
-<p align="center"><img title="a title" alt="Alt text" src="images/Nodo completo.JPG"></p>
+<p align="center"><img title="a title" alt="Alt text" src="images/Nodo completo.JPG" width="600px"></p>
 
 
 Se realizaron diferentes pruebas del nuevo prototipo, tanto a los componentes de sello de los sensores como al equipo completo en un ambiente controlado compuesto de un tubo de pvc de 6 metros de alto para simular la presión de una columna de agua.
@@ -23,13 +23,11 @@ Se realizaron diferentes pruebas del nuevo prototipo, tanto a los componentes de
 
 Finalmente luego de algunas iteraciones se logro un sistema sin filtraciones como observado en la foto de abajo :).
 
-<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_prototipo_2.jpg" width="300px"></p>
-
 Se probó este ptototipo luego en un pozo en el sector de Laguna Caren, aquí se realizaron pruebas sumergiendolo a mayores profundidades progresivamente (10, 20, 30 y 40mt).
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_validacion_1.jpg" width="300px"></p>
 
-Hubo de todos los resultados, positivos donde el permanecio sumergido sin filtraciones y también con filtraciones. Se observan algunos casos de carcasa con filtraciones más abajo.
+Hubo diferentes resultados, positivos donde carcasa permanecio sumergida sin filtraciones y otros donde ocurrieron filtraciones. Se observan algunos casos de carcasa con filtraciones más abajo.
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_validacion_3.jpg" width="300px"></p>
 
@@ -46,11 +44,18 @@ El **costo** de materiales se desprende de la carcasa y el cable de comunicació
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_costos.png" width="500px"></p>
 
-Se alcanza un grado de **protección IP** IP66 pero de manera parcial, la carcasa no tiene un comportamiento confiable y es 
+Se alcanza un grado de **protección IP** IP66 pero de manera parcial, la carcasa no tiene un comportamiento confiable y está pendiente iterar sobre el diseño.
 
 ### Archivos importantes
 
 #### Lista de Materiales e instrucciones
+
+Más detalle sobre lista de materiales e instrucciones de armado de la carcasa se pueden encontrar en el manual de armado:
+
+[]()
+
+<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_listamateriales.png" width="500px"></p>
+
 
 #### Diseño y fabricación
 
