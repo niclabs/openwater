@@ -13,4 +13,5 @@
 
 <!-- background image -->
 
-![](images/cover_background_1.jpg)
+![](images/cover_background_2.jpg)
+
