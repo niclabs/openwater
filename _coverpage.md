@@ -9,6 +9,7 @@
 - 🌊 Aplicación en aguas superficiales y subterraneas
 
 <!--[GitHub](https://github.com/docsifyjs/docsify/)-->
+[English](https://niclabs.cl/openwater-en)
 [Comenzar](README.md)
 
 <!-- background image -->
