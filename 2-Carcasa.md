@@ -60,7 +60,7 @@ Se alcanza un grado de **protección IP** IP66 pero de manera parcial, la carcas
 
 Más detalle sobre lista de materiales e instrucciones de armado de la carcasa se pueden encontrar en el manual de armado:
 
-- [Manual armado carcasa v2 - 2022 Feb](https://github.com/niclabs/openwater-es/blob/main/2.%20Carcasa/Manual%20armado%20carcasa%20v2%20-%202022Feb.pdf)
+- [Manual armado carcasa v2 - 2022 Feb](https://github.com/niclabs/openwater-es/blob/main/3.%20Carcasa/Manual%20armado%20carcasa%20v2%20-%202022Feb.pdf)
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_listamateriales.png" width="500px"></p>
 
@@ -69,7 +69,7 @@ Más detalle sobre lista de materiales e instrucciones de armado de la carcasa s
 
 Se pueden encontrar los archivos de diseño, materiales e instrucciones en el siguiente link.
 
-- [/niclabs/openwater-es/2. Carcasa](https://github.com/niclabs/openwater-es/tree/main/2.%20Carcasa)
+- [/niclabs/openwater-es/2. Carcasa](https://github.com/niclabs/openwater-es/tree/main/3.%20Carcasa)
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_planos_placa.png" width="220px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_sup.png" width="220px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_inf.png" width="220px"></p>
 
