@@ -17,11 +17,11 @@ _Más información en el [siguiente artículo](http://bitacoras.niclabs.cl/2022/
 
 Este sitio constituye un esfuerzo por documentar las consideraciones de diseño, avances y logros obtenidos para las diferentes áreas de trabajo. Se divide la estructura en las siguientes secciones:
 
-1. [🌡 Sensores](0-Sensores.md)
-2. [💻 Electrónica](1-Electrónica.md)
-3. [📦 Carcasa sumergible](2-Carcasa.md)
-4. [📡 Comunicación inalámbrica](3-Comunicación-inalámbrica.md)
-5. [🤖 Sistema experto](4-Sistema%20Experto.md)
+> 1. [🌡 Sensores](0-Sensores.md)
+> 2. [💻 Electrónica](1-Electrónica.md)
+> 3. [📦 Carcasa sumergible](2-Carcasa.md)
+> 4. [📡 Comunicación inalámbrica](3-Comunicación-inalámbrica.md)
+> 5. [🤖 Sistema experto](4-Sistema%20Experto.md)
 
 <!--
 ## Noticias
