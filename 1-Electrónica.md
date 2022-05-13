@@ -83,6 +83,10 @@ La placa tiene un **tamaño** de  22,5 cm largo x 3,2 cm ancho x 1,7 cm de alto 
 
 El **costo** de fabricar una placa PCBN ronda los USD\$200 más USD\$100 aproximadamente para componentes externo para el funcionamiento de la placa.
 
+### Archivos importantes
+
+
+
 
 <!--
 ### Siguientes pasos

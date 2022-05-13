@@ -18,7 +18,7 @@ TODO: poner tabla de resuemn resultados sensores.
 <p align="center"><img title="a title" alt="Alt text" src="images/sensor_agua.png" width="500px"></p>
 -->
 
-> <b> Para detalle sobre los experimentos en el repositorio del proyecto: </b>
+> <b> Para más detalle sobre los experimentos visistar repositorio del proyecto: </b>
 > https://github.com/niclabs/openwater-es/tree/main/1.%20Sensores
 
 ### Experimentos y resultados
