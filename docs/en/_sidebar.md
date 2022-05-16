@@ -1,5 +1,5 @@
 
-- [Home](en/)
+- [Home](en/home.md)
 - [Sensors](en/Sensors.md)
 - [Electronics](en/Electronics.md)
 - [Submersible case](en/Case.md)
