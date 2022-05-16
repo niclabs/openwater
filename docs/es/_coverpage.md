@@ -8,8 +8,8 @@
 - 🔧 Open hardware adaptable
 - 🌊 Aplicación en aguas superficiales y subterraneas
 
-[Repositorio](https://github.com/niclabs/openwater-es)
-[Documentación](README.md)
+[English](https://niclabs.cl/openwater-es/#/en/)
+[Ir al sitio](inicio.md)
 
 <!-- background image -->
 

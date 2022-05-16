@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# **Fondef IDeA ID19I10363: Open Water 💧 _//**
+# **Fondef IDeA ID19I10363: Open Water 💧 _ES**
 
 > Sistema de bajo costo de medición y monitoreo de agua en tiempo real.
 
@@ -8,9 +8,11 @@
 - 🔧 Open hardware adaptable
 - 🌊 Aplicación en aguas superficiales y subterraneas
 
-[Repositorio](https://github.com/niclabs/openwater-es)
-[Documentación](README.md)
+[English](https://niclabs.cl/openwater-es/#/en/)
+[Ir al sitio](inicio.md)
 
 <!-- background image -->
 
 ![](images/cover_background_2.jpg)
+
+
