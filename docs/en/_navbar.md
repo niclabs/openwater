@@ -1,4 +1,4 @@
 <!-- _navbar.md -->
 
-* [🇪🇸 Español](https://niclabs.cl/openwater-es/#/es/)
+* [🇪🇸 Español](https://niclabs.cl/openwater-es/#/es/inicio)
 * [🇬🇧 English](/)

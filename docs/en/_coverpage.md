@@ -9,7 +9,7 @@
 - 🔧 Open hardware
 - 🌊 Uses in surface and groundwater scenarios
 
-[🇪🇸 Español](https://niclabs.cl/openwater-es/#/es/homepage)
+[🇪🇸 Español](https://niclabs.cl/openwater-es/#/es/)
 [Go to site](en/home.md)
 
 <!-- background image -->
