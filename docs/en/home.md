@@ -1,5 +1,5 @@
 
-<h1 style="text-align:center;color:#000610">Fondef IDeA ID19I10363: Open Water 💧 INGELS</h1>
+<h1 style="text-align:center;color:#000610">Fondef IDeA ID19I10363: Open Water 💧</h1>
 
 <h4 style="text-align:center;color:DodgerBlue;">Low cost system for water monitoring and data acquisition in real time.</h3>
 
