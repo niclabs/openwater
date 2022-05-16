@@ -11,27 +11,31 @@ Se fabricó un primer prototipo para realizar pruebas con los sensores de presi�
 
 Este prototipo estuvo sumergido unos 45 minutos y al sacarlo si tenía bastante humedad dentro, pero no tenía un "pozo de agua", la humedad si era suficiente para que en el tiempo dañara la electrónica. Se cree que las filtraciones fueron por las tapas de los sensores de presión.xzx
 
-Se comenzó a diseñar una nueva versión de la carcasa, ahora sumando los requerimientos de priorizar materiales accesibles y disponibles en el mercado local. La geometría inicial contempla un tubo de acrílico transparente, tapas y un soporte interno para la electrónica, además de espacios laterales para la salida de los sensores y cable UTP. Las tapas laterales realizan el sello total del dispositivo en esta versión, mediante o'rings y fijándose al soporte interno que es lo que mantendrá las tapas a presión dentro del sistema generando la protección deseada IP69.
+Se diseña una nueva versión de la carcasa, ahora sumando los requerimientos de priorizar materiales accesibles y disponibles en el mercado local. La geometría inicial contempla un tubo de acrílico transparente, tapas y un soporte interno para la electrónica, además de espacios laterales para la salida de los sensores y cable UTP. Las tapas laterales realizan el sello total del dispositivo en esta versión, mediante o'rings y fijándose al soporte interno que es lo que mantendrá las tapas a presión dentro del sistema generando la protección deseada IP69.
 
 
 <p align="center"><img title="a title" alt="Alt text" src="images/Nodo completo.JPG" width="600px"></p>
 
 
-Se realizaron diferentes pruebas del nuevo prototipo, tanto a los componentes de sello de los sensores como al equipo completo en un ambiente controlado compuesto de un tubo de pvc de 6 metros de alto para simular la presión de una columna de agua.
+Se realizan diferentes pruebas del nuevo prototipo, tanto a los componentes de sello de los sensores como al equipo completo en un ambiente controlado compuesto de un tubo de pvc de 6 metros de alto para simular la presión de una columna de agua.
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_prototipo_1.jpg" width="300px"></p>
 
-Finalmente luego de algunas iteraciones se logro un sistema sin filtraciones como observado en la foto de abajo :).
+Finalmente, y luego de algunas iteraciones se logro un sistema sin filtraciones como observado en la foto de abajo :).
 
-Se probó este ptototipo luego en un pozo en el sector de Laguna Caren, aquí se realizaron pruebas sumergiendolo a mayores profundidades progresivamente (10, 20, 30 y 40mt).
+Se prueba este ptototipo luego en un pozo en el sector de Laguna Caren, aquí se realizaron pruebas sumergiendolo a mayores profundidades progresivamente (10, 20, 30 y 40mt).
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_validacion_1.jpg" width="300px"></p>
 
+<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_validacion_2.jpg" width="300px"></p>
+
+<!--
 Hubo diferentes resultados, positivos donde carcasa permanecio sumergida sin filtraciones y otros donde ocurrieron filtraciones. Se observan algunos casos de carcasa con filtraciones más abajo.
+-->
+
+Lo resultados fueron positivos y el sellado fue un éxito logrando una protección IP68. Hay leves filtraciones que se están revisando luego de un tiempo prolongado dependiendo de como se tape la carcasa por lo que no se clasifica aún como ip69.
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_validacion_3.jpg" width="300px"></p>
-
-<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_validacion_2.jpg" width="300px"></p>
 
 ### Cable de Comunicación
 

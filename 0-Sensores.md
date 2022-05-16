@@ -25,11 +25,19 @@ TODO: poner tabla de resuemn resultados sensores.
 
 Los sensores se encargan de convertir una medida física como temperatura, pH o presión atmosférica (por ejemplo) a una corriente o voltaje interpretable por un circuito electrónico.
 
-La calidad de los datos generados depende directamente de los sensores, y esto que afecta el desempeño del sistema y la calidad de información presentada a los usuarios. Por esto los sensores a utilizar son de vital importancia pero mejores sensores implican un mayor precio, y el objetivo del proyecto es generar un sistema de bajo costo.
+La calidad de los datos generados dependerá de los sensores, y esto que afecta el desempeño del sistema y la calidad de información presentada a los usuarios. Entonces entendiendo mejor el comportamiento de los sensores y acotando y definiendo sus alcances se busca generar un óptimo equilibrio entre costo de los equipos y su desempeño.
 
-Al entender mejor el comportamiento de los sensores y acotando y definiendo sus alcances se busca generar un óptimo equilibrio entre costo de los equipos y desempeños esperados del sistema Muchas veces equipos industriales o profesionales dan mayor precisión de la necesaria para análisis de dinámicas y anomalías de acuíferos (considerando una holgura) y ello es calidad perdida, cuyo valor económico se podría ahora o aprovechar en otras partes del problema.
+Todo lo anterior, en el contexto de que si bien los sensores no tienen una calidad científica, muchas veces no es necesario ese nivel de presición, y que además al ser económicos y asequibles puedo tener muchos puntos que mitiguen posibles errores en información y que permita un análisis del sistema.
 
-En la siguiente tabla encontramos los sensores en proceso de pruebas para medir 5 variables fisicoquímicas relevantes:
+<!--
+Por esto los sensores a utilizar son de vital importancia pero mejores sensores implican un mayor precio, y el objetivo del proyecto es generar un sistema de bajo costo.
+
+
+ Muchas veces equipos industriales o profesionales dan mayor precisión de la necesaria para análisis de dinámicas y anomalías de acuíferos (considerando una holgura) y ello es calidad perdida, cuyo valor económico se podría ahora o aprovechar en otras partes del problema.
+
+En la siguiente tabla encontramos los sensores en proceso de pruebas para medir 5 variables 
+fisicoquímicas relevantes:
+-->
 
 <p align="center">
 
