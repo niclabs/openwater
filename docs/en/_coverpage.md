@@ -7,10 +7,10 @@
 
 - 🌱 Simple and low-cost
 - 🔧 Open hardware
-- 🌊 Application in surface and groundwater scenarios
+- 🌊 Uses in surface and groundwater scenarios
 
 [🇪🇸 Español](https://niclabs.cl/openwater-es/#/es/)
-[Go to site](home.md)
+[Go to site](en/home.md)
 
 <!-- background image -->
 
