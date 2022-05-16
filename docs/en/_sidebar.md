@@ -1,10 +1,10 @@
 
-- [Home](/)
-- [Sensors](Sensors.md)
-- [Electronics](Electronics.md)
-- [Submersible case](Case.md)
-- [Wireless communication](Wireless.md)
-- [Expert system](Expert.md)
+- [Home](en/)
+- [Sensors](en/Sensors.md)
+- [Electronics](en/Electronics.md)
+- [Submersible case](en/Case.md)
+- [Wireless communication](en/Wireless.md)
+- [Expert system](en/Expert.md)
 
 <!--
     - [Estructura Wiki](?id=estructura-wiki)
