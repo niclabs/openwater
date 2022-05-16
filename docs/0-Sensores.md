@@ -31,8 +31,6 @@ fisicoquímicas relevantes:
 
 <p align="center">
 
-
-
 | Variable | Modelo Sensor | Rango | Error |
 | - | - | - | - |
 | Tº | • [DS18B20](https://altronics.cl/sensor-sonda-temperatura-ds18b20?search=ds18b20)  | \-10°C - 85°C | ±0.5 ºC |
