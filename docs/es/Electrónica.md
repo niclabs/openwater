@@ -1,7 +1,7 @@
 # 💻 Electrónica
 
 > **Para mayor detalle sobre el diseño, archivos fuente, costos, etc, puede encontrarlos en el repositorio:**
-> https://github.com/niclabs/openwater-es/tree/main/1.%20Sensores
+> https://github.com/niclabs/openwater/tree/main/1.%20Sensores
 
 ### Diseño
 
@@ -86,7 +86,7 @@ El **costo** de fabricar una placa PCBN ronda los USD\$200 más USD\$100 aproxim
 ### Archivos importantes
 
 **Para mayor detalle sobre el diseño, archivos fuente, costos, etc, puede encontrarlos en el repositorio:**
-https://github.com/niclabs/openwater-es/tree/main/1.%20Sensores
+https://github.com/niclabs/openwater/tree/main/1.%20Sensores
 
 
 <!--

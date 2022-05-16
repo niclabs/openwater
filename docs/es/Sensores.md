@@ -9,7 +9,7 @@ TODO: poner tabla de resuemn resultados sensores.
 -->
 
 > <b> Para más detalle sobre los experimentos visistar repositorio del proyecto: </b>
-> https://github.com/niclabs/openwater-es/tree/main/1.%20Sensores
+> https://github.com/niclabs/openwater/tree/main/1.%20Sensores
 
 ### Experimentos y resultados
 
