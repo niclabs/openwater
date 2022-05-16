@@ -1,39 +1,33 @@
 
 <h1 style="text-align:center;color:#000610">Fondef IDeA ID19I10363: Open Water 💧 INGELS</h1>
 
-<h4 style="text-align:center;color:DodgerBlue;">Sistema de bajo costo de medición y monitoreo de agua en tiempo real.</h3>
+<h4 style="text-align:center;color:DodgerBlue;">Low cost system for water monitoring and data acquisition in real time.</h3>
 
 
 <p style="text-align:justify;">
 
-En enero del 2020, bajo el marco del proyecto FONDEF IDeA ID19I10363, se unieron el NIC Chile Research Labs, el Departamento de Ingeniería Eléctrica y el Departamento de Geología de la Universidad de Chile, junto con las entidades asociadas Arcadis SPA, University of Illinois at Urbana-Champaign, Esval y la Dirección General de Aguas para proponer diseñar y desarrollar un prototipo experimental con el objetivo de lograr tener un sistema de medición multiparamétrico abierto, con el cual se pueda masificar el monitoreo de la calidad de agua tanto superficial como subterranea, con la adaptación de la tecnología de bajo costo.
+In January 2020, in the context of the FONDEF IDeA ID19I10363 project, NIC Chile Research Labs,  Universidad de Chile's Electrical Engineering and Geological departments, plus the associated organizations Arcadis SPA, University of Illinois at Urbana-Champaign, Esval and the Dirección General de Aguas joined efforts to propose the design and development of an experimental prototipe with the aim of achieving a low-cost open multiparametric measuring system, with which the water monitoring activities for superficial and groundwater scenarios could be massified.
 
-La investigación científica es llevada a desarrollo mediante fondos otorgados por FONDEF ID19I10363.
+The scientific research is carried out through funds granted by FONDEF ID19I10363.
 
-_Más información en el [siguiente artículo](http://bitacoras.niclabs.cl/2022/05/sistema-abierto-experto-para-apoyar-la.html)._
+_More information in [this article (in spanish)](http://bitacoras.niclabs.cl/2022/05/sistema-abierto-experto-para-apoyar-la.html)._
 
 [<p align="center"><img style="float: center;"  title="a title" alt="Alt text" src="images/inicio_video2.png" width="500px"></p>](https://www.youtube.com/watch?v=SJs9-OBhGeA)
 
 </p>
 
-Este sitio constituye un esfuerzo por documentar las consideraciones de diseño, avances y logros obtenidos para las diferentes áreas de trabajo. Se divide la estructura en las siguientes secciones:
+In this website we expect you can find design considerations, achievements and on going results for the different areas of work. The structure is divided in the following sections:
 
-> 1. [🌡 Sensores](0-Sensores.md)
-> 2. [💻 Electrónica](1-Electrónica.md)
-> 3. [📦 Carcasa sumergible](2-Carcasa.md)
-> 4. [📡 Comunicación inalámbrica](3-Comunicación-inalámbrica.md)
-> 5. [🤖 Sistema experto](4-Sistema%20Experto.md)
+> 1. [🌡 Sensors](Sensors.md)
+> 2. [💻 Electronics](Electronics.md)
+> 3. [📦 Submersible case](Case.md)
+> 4. [📡 Wireless communication](Wireless.md)
+> 5. [🤖 Expert system](Expert.md)
 
-<!--
-## Noticias
-
-##### 05.05.2022 - Bitácora Niclabs
-[![Everything Is AWESOME](images/news_bitacoraniclabs.png)](https://www.youtube.com/watch?v=SJs9-OBhGeA)
--->
 
 <br>
 
-## Equipo
+## Team
 
 [<img title="Sandra Cespedes" alt="Sandra Cespedes" src="images/inicio_equipo_sandra.jpg" width="60px">](https://www.linkedin.com/in/scespedes/)
 [<img title="Linda Daniele" alt="Linda Daniele" src="images/inicio_equipo_linda.jpg" width="60px">](https://www.linkedin.com/in/linda-daniele-9a35bb39/)
@@ -52,11 +46,11 @@ Este sitio constituye un esfuerzo por documentar las consideraciones de diseño,
 [<img title="Amilcar Aravena" alt="Amilcar Aravena" src="images/inicio_equipo_amilcar.jpg" width="60px">](https://www.linkedin.com/in/amilcar-aravena/)
 [<img title="Matías Macaya" alt="Matías Macaya" src="images/inicio_equipo_matiasmacaya.jpg" width="60px">](https://www.linkedin.com/in/matiasmacayaleiva/)
 
-_*Presiona en su imagen para visitar su linkedin o sitio web._
+_*Click on the photos to visit their website (mainly linked in)._
 
 <br>
 
-## Licencia
+## License
 
 <img title="Licencia CC BY-NC-SA 4.0" alt="Licencia CC BY-NC-SA 4.0" src="images/inicio_licencia.png" width="150px" class="center">
 
@@ -68,9 +62,9 @@ This license requires that reusers give credit to the creator. It allows reusers
 
 <br>
 
-## Contacto
+## Contact, say hello ..
 
-¿Quieres hablar? Escribenos tus consultas, comentarios o si solo quieres decir hola:
+¿Want to talk? Have any questions, comments or just wanna say hi, write us at:
 
 > [openwater@niclabs.cl](openwater@niclabs.cl)
 

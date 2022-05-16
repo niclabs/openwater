@@ -5,7 +5,7 @@
 
 <p style="text-align:justify;">
 
-En enero del 2020, bajo el marco del proyecto FONDEF IDeA ID19I10363, se unieron el NIC Chile Research Labs, el Departamento de Ingeniería Eléctrica y el Departamento de Geología de la Universidad de Chile, junto con las entidades asociadas Arcadis SPA, University of Illinois at Urbana-Champaign, Esval y la Dirección General de Aguas para proponer diseñar y desarrollar un prototipo experimental con el objetivo de lograr tener un sistema de medición multiparamétrico abierto, con el cual se pueda masificar el monitoreo de la calidad de agua tanto superficial como subterranea, con la adaptación de la tecnología de bajo costo.
+En enero del 2020, bajo el marco del proyecto FONDEF IDeA ID19I10363, se unieron el NIC Chile Research Labs, el Departamento de Ingeniería Eléctrica y el Departamento de Geología de la Universidad de Chile, junto con las entidades asociadas Arcadis SPA, University of Illinois at Urbana-Champaign, Esval y la Dirección General de Aguas para proponer diseñar y desarrollar un prototipo experimental con el objetivo de lograr tener un sistema de medición multiparamétrico abierto de bajo costo, con el cual se pueda masificar el monitoreo de la calidad de agua tanto superficial como subterranea.
 
 La investigación científica es llevada a desarrollo mediante fondos otorgados por FONDEF ID19I10363.
 
@@ -61,15 +61,19 @@ _*Presiona en su imagen para visitar su linkedin o sitio web._
 
 **CC BY-NC-SA 4.0**
 
-Open Water: Fondef IDeA ID19I10363 © 2022 by Universidad de Chile is licensed under Attribution-NonCommercial_ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+Open Water: Fondef IDeA ID19I10363 © 2022 por Universidad de Chile está licenciado bajo Attribution-NonCommercial_ShareAlike 4.0 International. Para ver una copia de la licencia, visita http://creativecommons.org/licenses/by-nc-sa/4.0/
 
+Esta licencia requiere que los reusuarios otorguen crédito al creador. Permite a los reusuarios distribuir, remezclar, adaptar y construir sobre el material en cualquier tipo de medio o formato, exclusivamente para usos no comerciales. Si otros modifican o adaptan el material, deben licenciar el nuevo material bajo los mismos términos.
+
+<!--
 This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms.
+-->
 
 <br>
 
 ## Contacto
 
-¿Quieres hablar? Escribenos tus consultas, comentarios o si solo quieres decir hola:
+¿Quieres hablar? Tienes una consulta, comentario o solo quieres decir hola. Nos encuentras en:
 
 > [openwater@niclabs.cl](openwater@niclabs.cl)
 
