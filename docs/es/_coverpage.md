@@ -2,7 +2,7 @@
 
 # **Fondef IDeA ID19I10363: Open Water 💧**
 
-> Sistema de bajo costo de medición y monitoreo de agua en tiempo real.
+> Sistema de bajo costo para medición y monitoreo de agua en tiempo real.
 
 - 🌱 Simple y de bajo costo
 - 🔧 Open hardware adaptable
