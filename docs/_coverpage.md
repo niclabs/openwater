@@ -14,5 +14,3 @@
 <!-- background image -->
 
 ![](images/cover_background_2.jpg)
-
-
