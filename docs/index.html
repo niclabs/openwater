@@ -27,7 +27,11 @@
     window.$docsify = {
           el: '#main',
           loadNavbar: true,
-          coverpage: true,
+          coverpage: {
+            '/': 'coverpage.md',
+            '/es/': 'coverpage.md',
+            '/en/': '/en/coverpage.md',
+          },
           onlyCover: true,
           homepage: 'es/inicio.md',
           name: 'Fondef: Open Water',
