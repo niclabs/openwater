@@ -8,16 +8,6 @@ TODO: terminar de analizar íultimos datos.
 TODO: poner tabla de resuemn resultados sensores.
 -->
 
-<!--
-- poner figura de calidad de la medición vs costo
-    - buscar tmbn alguna explicación en los informes
-- poner figura del sistema completo donde sensores es input
--->
-
-<!--
-<p align="center"><img title="a title" alt="Alt text" src="images/sensor_agua.png" width="500px"></p>
--->
-
 > <b> Para más detalle sobre los experimentos visistar repositorio del proyecto: </b>
 > https://github.com/niclabs/openwater-es/tree/main/1.%20Sensores
 
