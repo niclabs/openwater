@@ -26,7 +26,7 @@ Destacar que estos sensores seleccionados se sometieron a una serie de pruebas p
 
 Por otra parte la conexión entre estos componentes esta dado se manera simplificada en el diagrama a continuación:
 
-<img title="a title" alt="Alt text" src="docs/images/diagrama_bloque_simple.png">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/Diagrama_bloque_simple.png">
 <img title="a title" alt="Alt text" src="docs/images/electronica_conexiones_prototipo.png" width="400px">
 
 Donde los sensores TDS, pH y turbidez poseen su electrónica, el de presión entrega sus valores al ADC y el de temperatura mediante comunicación "OneWire" directamente al micro-controlador. El módulo SD se comunica con el micro-controlador a través de conexión "ISCP", en cambio el ADC posee una conexión I2C para tener las señales de los 4 sensores y por último la información de los sensores es enviada de manera serial al componente 485 y es enviada mediante los canales A y B. 
