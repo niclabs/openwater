@@ -10,7 +10,7 @@ Como prototipo  se realizó un circuito en Arduino para realizar pruebas con sen
 
 El funcionamiento básico se puede ver en el siguiente diagrama:
 
-<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/diagrama_func_simple.png">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/Diagrama_func_simple.png">
 
 #### Selección de componentes.
 Dado lo anterior los componentes que integran este prototipo inicial son los siguientes:
