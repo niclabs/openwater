@@ -17,7 +17,7 @@ Abajo se observa una implementación de este equema para pruebas de los sensores
 
 ### Prototipado
 
-Para le electrónica a sumergir bajo el agua se trabajó en la integración de todos los componentes en una PCB. Esta nueva placa debe tener el tamaño y funcionalidades suficientes para ser sumergida junto a la carcasa diseñada en la sección [Carcasa](Carcasa.md).
+Para le electrónica a sumergir bajo el agua se trabajó en la integración de todos los componentes en una PCB. Esta nueva placa debe tener el tamaño y funcionalidades suficientes para ser sumergida junto a la carcasa diseñada en la sección [Carcasa](es/Carcasa.md).
 
 Para otorgarle autonomía se suman dos nuevas funcionalidades:
 1. **Fuente energética a baterías:** Agregar baterías de litio 18650 con electrónica correspondiente para un correcto funcionamiento (cargadores y elevadores).
