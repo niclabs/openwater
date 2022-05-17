@@ -42,8 +42,8 @@ Lo resultados fueron positivos y el sellado fue un éxito logrando una protecci�
 Además de la carcasa, se diseño el cable de comunicación entre el módulo de captura de datos bajo el agua y el módulo de comunicación en la superficie. Para ello se utiliza un cable UTP dentro de una manguera para evitar su corrosión. El foco fue lograr un bajo costo lo que se logró con éxito costando menos de la mitad que versiones comerciales. Este cable es el encargado de transportar los datos entre el módulo de captura y el módulo de comunicación.
 
 <p align="center">
-<img title="a title" alt="Alt text" src="images/carcasa_cable_manguera.PNG" height="250px">
-<img title="a title" alt="Alt text" src="images/carcasa_cable_union.PNG" height="250px">
+<img title="a title" alt="Alt text" src="images/carcasa_cable_manguera.png" height="250px">
+<img title="a title" alt="Alt text" src="images/carcasa_cable_union.png" height="250px">
 </p>
 
 ### Resultados
