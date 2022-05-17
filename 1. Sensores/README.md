@@ -26,9 +26,9 @@ Por lo general se sometió a los sensores a tipos de pruebas que permitieran eva
 ## Temperatura
 
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_temp.png" width="200px">
-<img title="a title" alt="Alt text" src="docs/images/sensor_temp_experimento1_foto.jpg" width="300px">
-<img title="a title" alt="Alt text" src="docs/images/sensor_temp_experimento1.png" width="300px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_temp.png" width="200px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_temp_experimento1_foto.jpg" width="300px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_temp_experimento1.png" width="300px">
 
 Experimentos demostraron un buen desempeño del sensor en su comportamiento en el tiempo
 
@@ -40,27 +40,27 @@ Experimentos demostraron un buen desempeño del sensor en su comportamiento en e
 
 TODO: - Colocar sensor de referencia para saber cuál es.
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_temp_plot_hist.png">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_temp_plot_hist.png">
 
 - Error de dos sensores ds18b20 el primer mes de medición:
 TODO: (se puede corregir por offset el error 1? indicar que sensores tenían un poco de uso ya?)
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_temp_experimento1_error.png" width="400px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_temp_experimento1_error.png" width="400px">
 
 - Error de sensores luego de 7 meses de uso. Experimento dura 1 mes.
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_temp_experimento3_error.png" width="400px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_temp_experimento3_error.png" width="400px">
 
 - Se desarrolla nueva metodología hacia últimos experimentos: ver perfil de medición en el rango. Se observa algo de histéresis en ambos sensores para la bajada.
 TODO: (considerar rápidez en la toma de datos, existe histéresis en la bajada de temperatura para cambios rápidos)
 
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_temp_experimento3_perfil_inicial.png" width="700px">
-<img title="a title" alt="Alt text" src="docs/images/sensor_temp_experimento3_rmse_perfil.png" width="500px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_temp_experimento3_perfil_inicial.png" width="700px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_temp_experimento3_rmse_perfil.png" width="500px">
 
 ## Conductividad
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_tds.png" width="300px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_tds.png" width="300px">
 
 TODO: (fotos del experimento)
 TODO: al medir dos sensores de conductividad se afectan la medida. Pero el de conductividad con pH o presión o temp no.
@@ -72,19 +72,19 @@ TODO: al medir dos sensores de conductividad se afectan la medida. Pero el de co
     - desgaste irrecuperable del sensor sumergido.
     - no se ve histéresis y tampoco en los datos
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_tds_experimento3_perfil_ini.png" width="500px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_tds_experimento3_perfil_ini.png" width="500px">
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_tds_experimento3_perfil_fin.png" width="500px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_tds_experimento3_perfil_fin.png" width="500px">
 
 - Si es importante la saturación sobre los valores ~1500 uS/cm y ~2000 uS/cm.
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_tds_experimento3_rmse_rango.png" width="500px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_tds_experimento3_rmse_rango.png" width="500px">
 
 - Se esperan más experimentos para ver si es por depositos de minerales en el sensor, o si es corregible, o fue un error puntual, o etc.
 
 ## pH
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_ph.jpeg" width="300px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_ph.jpeg" width="300px">
 
 TODO: fotos experimento
 
@@ -93,42 +93,42 @@ TODO: fotos experimento
 - se esperar hacer más experimento para corroborar datos y además poder ir estimando que tan rápido se descalibran los datos, y cuánto se va perdiendo de presición con cada recalibración.
 
 - Perfil inicial del experimento:
-<img title="a title" alt="Alt text" src="docs/images/sensor_ph_experimento3_perfil_ini.png" width="500px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_ph_experimento3_perfil_ini.png" width="500px">
 
 - Perfil al final del experimento sin recalibrar:
-<img title="a title" alt="Alt text" src="docs/images/sensor_ph_experimento3_perfil_int.png" width="500px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_ph_experimento3_perfil_int.png" width="500px">
 
 - Perfil final con recalibración de los sensores:
-<img title="a title" alt="Alt text" src="docs/images/sensor_ph_experimento3_perfil_fin.png" width="500px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_ph_experimento3_perfil_fin.png" width="500px">
 
 
 ## Nivel de Agua
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_presion.png" width="200px">
-<img title="a title" alt="Alt text" src="docs/images/sensor_presion_atm.png" width="200px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_presion.png" width="200px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_presion_atm.png" width="200px">
 
 - Se utilizan dos sensores para calcular la columna de agua 
 - TODO: Poner sensores dereferencia para ambos casos.
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_presion_experimento1_0.png" width="300px">
-<img title="a title" alt="Alt text" src="docs/images/sensor_presion_experimento1_1.jpeg" width="300px">
-<img title="a title" alt="Alt text" src="docs/images/sensor_presion_experimento1_2.jpeg" width="300px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_presion_experimento1_0.png" width="300px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_presion_experimento1_1.jpeg" width="300px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_presion_experimento1_2.jpeg" width="300px">
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_presion_experimento1.png" width="1000px">
-<img title="a title" alt="Alt text" src="docs/images/sensor_presion_experimento1_rmse.png" width="350px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_presion_experimento1.png" width="1000px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_presion_experimento1_rmse.png" width="350px">
 
 - últimos experimentos fueron en baldes de agua y mato, porque muy poca altura asi que el desempeño fue peor, pero este no empeoró luego de 6 meses con sensores sumergidos.
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_presion_experimento3_rmse.png" width="300px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_presion_experimento3_rmse.png" width="300px">
 
 ## turbidez
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_turbidez.png" width="200px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_turbidez.png" width="200px">
 
 - primeros experimento dieron cualquier cosa, dificultad en uso de sensor muy delicados a la luz y otras variables dificiles de controlar.
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_turbidez_experimento1.png" width="500px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_turbidez_experimento1.png" width="500px">
 
 - Errores del rango de ~1000 NTU. No confiables, quizás solo apra alertas grandes pero mejor seguir buscando.
 
-<img title="a title" alt="Alt text" src="docs/images/sensor_turbidez_experimento2_1.png" width="500px">
+<img title="a title" alt="Alt text" src="https://github.com/niclabs/openwater/blob/main/docs/images/sensor_turbidez_experimento2_1.png" width="500px">
