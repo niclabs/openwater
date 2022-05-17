@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\2. Electrónica"
+    "\\2. Electrónica",
+    "\\docs",
+    "\\docs\\es"
   ],
-  "SelectedNode": "\\2. Electrónica\\README.md",
+  "SelectedNode": "\\docs\\es\\Electrónica.md",
   "PreviewInSolutionExplorer": false
 }

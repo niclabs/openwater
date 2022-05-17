@@ -70,7 +70,7 @@ Se puede observar algunos flujos de trabajo del sitio en los siguientes Gif's. Â
 
 <p align="center">
 
-|<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_0datos.gif">|
+|<img title="Gif sistema experto" alt="Alt text" src="images\sisexp_visualizacion_0datos.gif" width="400px">|
 |-|
 </p>
 
