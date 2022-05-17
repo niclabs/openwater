@@ -43,7 +43,7 @@ Este sitio constituye un esfuerzo por documentar las consideraciones de diseño,
 [<img title="Francisco Jaramillo" alt="Francisco Jaramillo" src="images/inicio_equipo_francisco.jpg" width="60px">](https://www.linkedin.com/in/francisco-jaramillo-montoya-0a6b8750/)
 [<img title="Rodrigo Muñoz" alt="Rodrigo Muñoz" src="images/inicio_equipo_rodrigo.jpg" width="60px">](https://www.linkedin.com/in/rodrigomunozlara/)
 [<img title="Maite Gonzalez" alt="Maite Gonzalez" src="images/inicio_equipo_maite.jpg" width="60px">](https://www.linkedin.com/in/maite-gonz%C3%A1lez-mendoza-6652063a/)
-[<img title="Michael Alan Acevedo Salazar" alt="Michael Alan Acevedo Salazar" src="images/inicio_equipo_rodrigo.jpg" width="60px">](https://www.linkedin.com/in/alanacevedo/)
+[<img title="Michael Alan Acevedo Salazar" alt="Michael Alan Acevedo Salazar" src="images/inicio_equipo_alan.jpg" width="60px">](https://www.linkedin.com/in/alanacevedo/)
 [<img title="Pablo Martin" alt="Pablo Martin" src="images/inicio_equipo_pablo.jpg" width="60px">](https://www.linkedin.com/in/pmartinchile/)
 [<img title="Sebastian Cifuentes" alt="Sebastian Cifuentes" src="images/inicio_equipo_sebastian.jpg" width="60px">](https://www.linkedin.com/in/sebcif)
 [<img title="Gabriel Flores" alt="Gabriel Flores" src="images/inicio_equipo_gabriel.jpg" width="60px">](https://github.com/gaboflowers)
