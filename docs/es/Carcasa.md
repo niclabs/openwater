@@ -77,10 +77,12 @@ Se pueden encontrar los archivos de diseño, materiales e instrucciones en el si
 
 <p align="center"><img title="a title" alt="Alt text" src="images/carcasa_planos_placa.png" width="220px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_sup.png" width="220px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_inf.png" width="220px"></p>
 
+<!--
 ### Siguientes pasos
 _\*(WIP matías)\*_
 _\*TODO: agregar información sobre la manguera\*_
 _\*TODO: agregar información sobre tipo de ambiente para diseñar la carcasa (requerimiento)\*_
+-->
 <!--
 Se puede ordenar el trabajo futuro en dos categorías dependiendo de su objetivo:
 
