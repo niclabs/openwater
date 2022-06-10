@@ -90,3 +90,6 @@ Se puede observar algunos flujos de trabajo del sitio en los siguientes Gif's. Â
 |-|
 </p>
 
+<br>
+
+> Tienes una consulta o comentario, escribenos a [openwater@niclabs.cl](openwater@niclabs.cl)

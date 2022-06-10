@@ -8,9 +8,6 @@ TODO: terminar de analizar íultimos datos.
 TODO: poner tabla de resuemn resultados sensores.
 -->
 
-> <b> Para más detalle sobre los experimentos visistar repositorio del proyecto: </b>
-> [Sensores](https://github.com/niclabs/openwater/tree/main/1.%20Sensores)
-
 ### Experimentos y resultados
 
 Los sensores se encargan de convertir una medida física como temperatura, pH o presión atmosférica (por ejemplo) a una corriente o voltaje interpretable por un circuito electrónico.
@@ -57,9 +54,13 @@ Para esto se utilizó baldes de agua en condicinoes controladas que simulan las 
 | Conductividad Eléctrica | ⚠️ En evaluación | Buena calidad de medición pero presentó problemas en sumersión continua. Se realizarán nuevos experimentos |
 | Turbiedad   | ❌ Reprobado | Error muy alto (mayor a 1000 TPU) y sensor muy sensible a variables externas |
 
+
+
+
 </p>
 
 
+> Tienes una consulta o comentario, escribenos a [openwater@niclabs.cl](openwater@niclabs.cl)
 
 <!--
 #### Algunos detalles

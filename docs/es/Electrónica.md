@@ -1,8 +1,5 @@
 # 💻 Electrónica
 
-> **Para mayor detalle sobre el diseño, archivos fuente, costos, etc, puede encontrarlos en el repositorio:**
-> [Electrónica](https://github.com/niclabs/openwater/tree/main/2.%20Electr%C3%B3nica)
-
 ### Diseño
 
 La electrónica se encarga de obtener las señales eléctricas o datos de los sensores, almacenarlos, comunicarlos y realizar todas las tareas y mecanismos necesarios para garantizar que la toma  y comunicación de datos funcione en los momentos, tiempos y cantidad esperados.
@@ -83,10 +80,15 @@ La placa tiene un **tamaño** de  22,5 cm largo x 3,2 cm ancho x 1,7 cm de alto 
 
 El **costo** de fabricar una placa PCBN ronda los USD\$200 más USD\$100 aproximadamente para componentes externo para el funcionamiento de la placa.
 
-### Archivos importantes
+<br>
 
+> Tienes una consulta o comentario, escribenos a [openwater@niclabs.cl](openwater@niclabs.cl)
+
+
+<!-- ## Archivos Importante
 **Para mayor detalle sobre el diseño, archivos fuente, costos, etc, puede encontrarlos en el repositorio:**
 [Electrónica](https://github.com/niclabs/openwater/tree/main/2.%20Electr%C3%B3nica)
+-->
 
 
 <!--

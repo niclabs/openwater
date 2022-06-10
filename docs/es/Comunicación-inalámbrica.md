@@ -83,3 +83,9 @@ El sistema experto procesa los mensajes HTTP y extrae las medidas provenientes d
 ----
 
 [1] http://thethingsnetwork.org/docs/lorawan/architecture.html
+
+
+<br>
+
+> Tienes una consulta o comentario, escribenos a [openwater@niclabs.cl](openwater@niclabs.cl)
+

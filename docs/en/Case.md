@@ -54,20 +54,5 @@ The **cost** of materials follows from the case and the communication cable. The
 
 A degree of **IP protection** IP66 is achieved but partially, the casing does not have a reliable behavior and iteration on the design is pending.
 
-### Relevant files
 
-#### List of Materials and instructions
-
-More detail on the list of materials and assembly instructions for the casing can be found in the assembly manual:
-
-- [Manual armado carcasa v2 - 2022 Feb](https://github.com/niclabs/openwater/blob/main/3.%20Carcasa/Manual%20armado%20carcasa%20v2%20-%202022Feb.pdf)
-
-<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_listamateriales.png" width="500px"></p>
-
-#### Design and fabrication
-
-Design files, materials and instructions can be found at the following link.
-
-- [/niclabs/openwater/2. Carcasa](https://github.com/niclabs/openwater/tree/main/3.%20Carcasa)
-
-<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_planos_placa.png" width="220px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_sup.png" width="220px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_inf.png" width="220px"></p>
+> Do you have a question or comment, write us at [openwater@niclabs.cl](openwater@niclabs.cl)

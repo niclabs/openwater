@@ -58,24 +58,8 @@ El **costo** de materiales se desprende de la carcasa y el cable de comunicació
 
 Se alcanza un grado de **protección IP** IP66 pero de manera parcial, la carcasa no tiene un comportamiento confiable y está pendiente iterar sobre el diseño.
 
-### Archivos importantes
+> Tienes una consulta o comentario, escribenos a [openwater@niclabs.cl](openwater@niclabs.cl)
 
-#### Lista de Materiales e instrucciones
-
-Más detalle sobre lista de materiales e instrucciones de armado de la carcasa se pueden encontrar en el manual de armado:
-
-- [Manual armado carcasa v2 - 2022 Feb](https://github.com/niclabs/openwater/blob/main/3.%20Carcasa/Manual%20armado%20carcasa%20v2%20-%202022Feb.pdf)
-
-<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_listamateriales.png" width="500px"></p>
-
-
-#### Diseño y fabricación
-
-Se pueden encontrar los archivos de diseño, materiales e instrucciones en el siguiente link.
-
-- [/niclabs/openwater/2. Carcasa](https://github.com/niclabs/openwater/tree/main/3.%20Carcasa)
-
-<p align="center"><img title="a title" alt="Alt text" src="images/carcasa_planos_placa.png" width="220px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_sup.png" width="220px"><img title="a title" alt="Alt text" src="images/carcasa_planos_tapa_inf.png" width="220px"></p>
 
 <!--
 ### Siguientes pasos
